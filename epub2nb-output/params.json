@@ -1,0 +1,406 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Verunka a kokosový dědek",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Pavel Šrut",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-03-24T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "verunka_a_kokosovy_dedek_001.md",
+            "xhtml": "verunka_a_kokosovy_dedek_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_002.md",
+            "xhtml": "verunka_a_kokosovy_dedek_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_003.md",
+            "xhtml": "verunka_a_kokosovy_dedek_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_004.md",
+            "xhtml": "verunka_a_kokosovy_dedek_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_005.md",
+            "xhtml": "verunka_a_kokosovy_dedek_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_006.md",
+            "xhtml": "verunka_a_kokosovy_dedek_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_007.md",
+            "xhtml": "verunka_a_kokosovy_dedek_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_008.md",
+            "xhtml": "verunka_a_kokosovy_dedek_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_009.md",
+            "xhtml": "verunka_a_kokosovy_dedek_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_010.md",
+            "xhtml": "verunka_a_kokosovy_dedek_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_011.md",
+            "xhtml": "verunka_a_kokosovy_dedek_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_012.md",
+            "xhtml": "verunka_a_kokosovy_dedek_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_013.md",
+            "xhtml": "verunka_a_kokosovy_dedek_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_014.md",
+            "xhtml": "verunka_a_kokosovy_dedek_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_015.md",
+            "xhtml": "verunka_a_kokosovy_dedek_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_016.md",
+            "xhtml": "verunka_a_kokosovy_dedek_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "verunka_a_kokosovy_dedek_017.md",
+            "xhtml": "verunka_a_kokosovy_dedek_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Verunka a kokosový dědek",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Pavel Šrut",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-03-24T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_001.md",
+        "xhtml": "verunka_a_kokosovy_dedek_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_002.md",
+        "xhtml": "verunka_a_kokosovy_dedek_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_003.md",
+        "xhtml": "verunka_a_kokosovy_dedek_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_004.md",
+        "xhtml": "verunka_a_kokosovy_dedek_004.xhtml"
+      },
+      {
+        "titleSuggest": "Leden",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_005.md",
+        "xhtml": "verunka_a_kokosovy_dedek_005.xhtml"
+      },
+      {
+        "titleSuggest": "Únor",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_006.md",
+        "xhtml": "verunka_a_kokosovy_dedek_006.xhtml"
+      },
+      {
+        "titleSuggest": "Březen",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_007.md",
+        "xhtml": "verunka_a_kokosovy_dedek_007.xhtml"
+      },
+      {
+        "titleSuggest": "Duben",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_008.md",
+        "xhtml": "verunka_a_kokosovy_dedek_008.xhtml"
+      },
+      {
+        "titleSuggest": "Květen",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_009.md",
+        "xhtml": "verunka_a_kokosovy_dedek_009.xhtml"
+      },
+      {
+        "titleSuggest": "Červen",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_010.md",
+        "xhtml": "verunka_a_kokosovy_dedek_010.xhtml"
+      },
+      {
+        "titleSuggest": "Červenec",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_011.md",
+        "xhtml": "verunka_a_kokosovy_dedek_011.xhtml"
+      },
+      {
+        "titleSuggest": "Srpen",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_012.md",
+        "xhtml": "verunka_a_kokosovy_dedek_012.xhtml"
+      },
+      {
+        "titleSuggest": "Září",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_013.md",
+        "xhtml": "verunka_a_kokosovy_dedek_013.xhtml"
+      },
+      {
+        "titleSuggest": "Říjen",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_014.md",
+        "xhtml": "verunka_a_kokosovy_dedek_014.xhtml"
+      },
+      {
+        "titleSuggest": "Listopad",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_015.md",
+        "xhtml": "verunka_a_kokosovy_dedek_015.xhtml"
+      },
+      {
+        "titleSuggest": "Prosinec",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_016.md",
+        "xhtml": "verunka_a_kokosovy_dedek_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "verunka_a_kokosovy_dedek_017.md",
+        "xhtml": "verunka_a_kokosovy_dedek_017.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_verunka_a_kokosovy_dedek.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_uroven3_nadpis",
+      "MLP_verse",
+      "MLP_verse_-I-",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_tucne_11b",
+      "Normal",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-6",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "srut-verunka-a-kokosovy-dedek"
+    },
+    "generatedAt": 1652420737340
+  }
+}
