@@ -6,8 +6,6 @@ contentType: prose
 ## 1.  
 Nový rok
 
-  
-
 „V zimě je Verunek víc než meruněk,“ řekl důležitě kokosový dědek a Veronika se rozesmála.
 
 „_A proč je v zimě víc Verunek než meruněk?_“
@@ -29,14 +27,10 @@ Nový rok
 ## 2.  
 Zakutálený dědek
 
-  
-
 Zakutálet se pod dětskou postýlku, to dokáže málokterý dědeček. Jenže Verunčin dědek nebyl žádný obyčejný dědeček. Byl to kokos. Na první pohled to byl velikánský kokosový ořech. Že je to ale ve skutečnosti kokosový dědek, věděla od Štědrého dne jedině Verunka a bylo to její tajemství.
 
 ## 3.  
 Jak to vlastně začalo
-
-  
 
 To bylo tak. Za všechno může jeden pošťák a Štědrý den. Verunka dostala plno dárků: pohádkové knížky, pruhované punčocháče, puntíkované šatičky, hru Člověče, nezlob se, mluvící pannu, noční košilku s kapucí. A hezký batůžek.
 
@@ -44,8 +38,6 @@ Když si po večeři všechny ty dárky rozbalila, zazvonil zvonek.
 
 ## 4.  
 Štědrovečerní pošťák
-
-  
 
 Zazvonil dvakrát – a byl to pošťák!
 
@@ -57,14 +49,12 @@ Zazvonil dvakrát – a byl to pošťák!
 
 Vtom Verunka přišla z pokoje a na tu doručenku se podepsala.
 
-VƎRUNKA
+_VƎRUNKA_
 
 Všichni se divili – a to vůbec netušili, kolik divných věcí je ještě čeká.
 
 ## 5.  
 Co je to Haiti
-
-  
 
 „A v tom vánočním balíku jsem byl já!“ řekl dědek spokojeně.
 
@@ -93,14 +83,10 @@ Co je to Haiti
 ## 6.  
 Dědku, nezlob se
 
-  
-
 Takhle se spolu škorpili pořád a pořád si povídali. A když je už od mluvení pusa bolela, tak si hráli. Dědek miloval hru na schovku, protože se uměl báječně schovávat. Veronika s ním zase hrála nejraději Člověče, nezlob se, protože se uměl báječně zlobit. A tak té hře začala říkat: Dědku, nezlob se!
 
 ## 7.  
 Nevhodný dědek
-
-  
 
 „Víš, co jsi mi slíbil?“ zeptala se ráno Verunka. „Že mi povíš, jak jsi spadnul ze stromu – a vůbec všechno o sobě.“
 
@@ -114,8 +100,6 @@ Nevhodný dědek
 
 ## 8.  
 Velké tajemství
-
-  
 
 „Milá Verunko, tak já ti povím velké tajemství,“ řekl kokosový dědek slavnostně. „Ale musíš mi slíbit, že to tajemství nikdy nikomu nevyzradíš.“
 
@@ -131,8 +115,6 @@ Velké tajemství
 
 ## 9.  
 Tajemství je jako svědění
-
-  
 
 Kokosový dědek se zamyslel a pokračoval až po chvíli.
 
@@ -155,8 +137,6 @@ Kokosový dědek se zamyslel a pokračoval až po chvíli.
 ## 10.  
 Velký úlek
 
-  
-
 Ráno přišla babička Agáta do dětského pokoje uklízet.
 
 „Tady snad bylo zemětřesení!“ spráskla ruce.
@@ -170,21 +150,15 @@ Verunka se lekla, že se její tajemství prozradí, a dědek se polekal košt�
 ## 11.  
 Velký skok
 
-  
-
 Maminka přiběhla z koupelny a tatínek z kuchyně. Oba koukali na babiččin prst, který ukazoval k oknu. Verunka si raději zakryla dlaněmi oči. A kokosový dědek si najednou v okně poskočil, podíval se dolů, rozpřáhl ruce a HUP! – skočil do neznáma.
 
 ## 12.  
 Kokosový dědek se ztratil
 
-  
-
 Hubertovi bydleli ve třetím patře jednoho starého pražského činžáku. Dětský pokojík měl okna do dvora. A tak hledali kokos na dvorku. Od rána padal sníh. A přestože je v čistém sněhu vidět každá šlápota, dědek zmizel, jako by se do země propadl.
 
 ## 13.  
 Kokosový dědek se nevrací
-
-  
 
 „Veroniko, přestaň s tím fňukáním! Vždyť to byl jen obyčejný kokosový ořech!“ zlobil se tatínek u večeře.
 
@@ -197,16 +171,12 @@ Kokosový dědek se nevrací
 ## 14.  
 Tatínku, nezlob se
 
-  
-
 A to už se tatínek rozčilil a uhodil pěstí do stolu. „Zatracenej kokos! To bych rád věděl, kdo nám ho poslal! Pojď, Verunko, zahrajeme si Člověče, nezlob se. Musím se uklidnit!“
 
 Veronice padaly samé šestky a tatínek se zase rozčiloval. Ale jenom naoko. Vůbec neuměl prskat a vztekat se a skákat po postýlce jako kokosový dědek…
 
 ## 15.  
 A jak to bylo s dědkem
-
-  
 
 Takhle to bylo:
 
@@ -215,7 +185,7 @@ Kokosový dědek uměl báječně padat. Ani trochu si nenatloukl. Dopadl do sn�
 ## 16.  
 Ospalá vůně
 
-A ono to tam vonělo jako na Haiti!
+_A ono to tam vonělo jako na Haiti!_
 
 Po citronech a pomerančích a po banánech.
 
@@ -228,8 +198,6 @@ Tak se uložil mezi kamarády a usnul.
 ## 17.  
 Hezký sen o Haiti
 
-  
-
 A měl sen…
 
 V tom snu byl mladým cestovatelem. Stál na malém ostrůvku, všude poletovali motýli, rostly tu kokosové palmy a na nich vřeštěly opice.
@@ -238,8 +206,6 @@ V tom snu byl mladým cestovatelem. Stál na malém ostrůvku, všude poletoval
 
 ## 18.  
 Ošklivý konec hezkého snu
-
-  
 
 „Kuasil bejů!“ promluvil konečně tajnou řečí zlý kouzelník.
 
@@ -253,8 +219,6 @@ Mohlo to znamenat buď: Tak napřed popros!, nebo: Proměň se v kokos! A znam
 
 ## 19.  
 Představuje se Natálka
-
-  
 
 Verunce bylo po kokosu smutno, a tak si hrála s panenkou, kterou dostala pod stromeček.
 
@@ -277,8 +241,6 @@ Hrála si na to, že panenku krmí. Když ji to omrzelo, zmáčkla knoflík pot�
 ## 20.  
 Představuje se Lukášek
 
-  
-
 Kokosového dědka probudil z ošklivého snu zvonek na dveřích zelinářského krámku.
 
 „Dobrý den, paní Urbanová, ahoj, Lukáši!“ hlaholil zelinář.
@@ -296,8 +258,6 @@ Lukáš chodil do druhé třídy a byl to Veroničin kamarád. Urbanovi bydleli
 ## 21.  
 Dědek je zase doma
 
-  
-
 „Mami, mně se líbí! Vypadá senzačně praštěně! Kup mi ho,“ prosil Lukášek.
 
 „Tak ho zvážíme a uděláme slevu,“ radoval se zelinář, že se toho starého kokosu zbaví. A hodil dědka na váhu. Váha se zhoupla. A jak se zhoupla, tak kokosový dědek vyskočil! Vykutálel se z krámu na ulici, a z ulice rovnou do domu, kde bydlela Verunka.
@@ -306,8 +266,6 @@ Vyběhl do třetího patra a drcnul do dveří. Babička Agáta otevřela, děd
 
 ## 22.  
 Senzační zážitek
-
-  
 
 Příští den odpoledne Verunka potkala na chodbě Lukáše.
 
@@ -318,16 +276,12 @@ Příští den odpoledne Verunka potkala na chodbě Lukáše.
 ## 23.  
 Provázková pošta
 
-  
-
 Kokosový dědek znovu a znovu vyprávěl Verunce, co všechno zažil. Pokaždé to vyprávěl trochu – nebo hodně – jinak. A to se jí líbilo. Najednou do toho vymýšlení zazvonil telefon.
 
 „Ahoj, Niko!“ ozvalo se ve sluchátku. „Pošli mi pošťáka. Něco jsem ti nakreslil!“
 
 ## 24.  
 Nakreslený dědek
-
-  
 
 Veronika spustila z okna ve třetím patře provázek. Lukáš otevřel okno svého pokojíku v přízemí a k provázku připevnil ruličku papíru.
 
@@ -337,8 +291,6 @@ Verunka vytáhla „poštu“ nahoru a těšila se, co v ní bude. Na čtvrtce
 
 ## 25.  
 Nebezpečné trucování
-
-  
 
 Veronika si ten Lukášův obrázek pořád prohlížela.
 
@@ -354,7 +306,7 @@ A schoval se.
 
 Stačil mžik – a byl pryč. Verunka se podívala
 
-pod stůl,  
+_pod stůl,  
 do příborníku,  
 pod gauč,  
 do sporáku,  
@@ -362,14 +314,12 @@ pod křeslo,
 do botníku,  
 pod koberec,  
 do mikrovlnky  
-i do myčky na nádobí…
+i do myčky na nádobí…_
 
 Ale kokosový dědek nikde nebyl.
 
 ## 26.  
 Zapomenutý dědek
-
-  
 
 Jindy, když kokosového dědka při hře na schovku nemohla najít, zavolala: „Dědku, dědku, já mám pětku!“ – a on hned vylezl z úkrytu a radoval se: „Ano, ano, ty máš z hledání pětku a já ze schovávání jedničku!“
 
@@ -377,8 +327,6 @@ Jenže teď se jí ta hra omrzela. Viděla, jak se venku snášejí velké vloč
 
 ## 27.  
 Vyděšená babička Agáta
-
-  
 
 Druhý den ráno probudil Verunku křik.
 
@@ -393,8 +341,6 @@ Druhý den ráno probudil Verunku křik.
 ## 28.  
 Kokosový dědek stůně
 
-  
-
 Zmrzlý kokosový dědek přiběhl do pokojíku a volal:
 
 „Honem! Honem mě schovej!“
@@ -403,8 +349,6 @@ Veronika ho popadla a vlepila mu pusu. Ta pusa chutnala jako kokosová zmrzlina
 
 ## 29.  
 Kokosový dědek slibuje
-
-  
 
 „Tak mi konečně pověz, proč ses mi schoval?“ vyptávala se Verunka.
 
@@ -427,8 +371,6 @@ Kokosový dědek slibuje
 ## 30.  
 Není peřina jako peřina
 
-  
-
 Kokosový dědek musel zůstat v posteli. Přes noc napadl nový sníh, a tak šla Verunka s Lukášem sáňkovat. Svištěli z kopce, a když se vyklopili, spadli do hebké závěje jako do peřiny.
 
 „Tak jak jste se s Lukášem měli?“ přivítal ji kokosový dědek ne­vrle.
@@ -441,8 +383,6 @@ A usnul.
 
 ## 31.  
 Kokosový dědek se uzdraví
-
-  
 
 Kokosový dědek už přestal kýchat, ale nějak se mu zalíbilo hrát si na nemocného. Verunka mu jako vařila čaj a musel jako polykat aspirin. Ale on si pořád něco vymýšlel.
 
