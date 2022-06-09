@@ -6,8 +6,6 @@ contentType: prose
 ## 1.  
 Těšení a bání
 
-  
-
 Veronika nemohla dospat.
 
 „Proč nespíš?“ bručel dědek pod peřinou.
@@ -24,8 +22,6 @@ Veronika nemohla dospat.
 
 ## 2.  
 Dědek mezi prvňáčky nepatří
-
-  
 
 Kupodivu babička Agáta řekla ráno v kuchyni něco podobného. Pravila: „Když jde holčička první den do první třídy, musí se hodně těšit i trochu bát a musí mít parádní šatičky. A nový školní batůžek.“
 
@@ -58,16 +54,12 @@ A dědek to slyšel a řekl si: „To se, holka, ještě uvidí!“
 ## 3.  
 Cesta do školy
 
-  
-
 Když jdou děti první den do první třídy, je to na nich poznat. Vypadají tak nějak důležitě. Verunka se pevně držela babičky Agáty za ruku. Zato Lukáš vedle nich kráčel úplně ledabyle. Dokonce si házel tenisákem.
 
 „Zase se vytahuje,“ pomyslela si Veronika, „ale stejně je to prima kamarád.“
 
 ## 4.  
 Prvňáčky učí prvňačka
-
-  
 
 Babička Agáta právě vytáhla z trouby štrúdl, když Lukáš po škole přišel na návštěvu.
 
@@ -81,8 +73,6 @@ Babička Agáta právě vytáhla z trouby štrúdl, když Lukáš po škole př
 
 ## 5.  
 Lukášův nejkrásnější zážitek z prázdnin
-
-  
 
 Babička dala pekáč se štrúdlem na stůl a řekla: „Teď nechte na chvilku školy a povídejte si ještě o prázdninách. Lukášku, co nejkrásnějšího jsi u dědy zažil?“
 
@@ -101,8 +91,6 @@ Babička Agáta spráskla ruce.
 ## 6.  
 Extrasupersenzační krasohled
 
-  
-
 Chvíli bylo ticho. Pak si Verunka vzpomněla.
 
 „Počkej, vždyť já jsem ti něco přivezla!“ Odběhla do pokojíku a podala mu svůj dárek.
@@ -120,8 +108,6 @@ Barevné střípky tvořily nové a nové obrázky a Lukášek volal: „Ha-lo
 ## 7.  
 Aki Bakiba
 
-  
-
 Verunka si povídala o škole s tatínkem a s maminkou.
 
 „A jaké máš spolužáky?“ zeptal se tatínek.
@@ -136,8 +122,6 @@ Verunka si povídala o škole s tatínkem a s maminkou.
 
 ## 8.  
 Dědek se chce zvelebit
-
-  
 
 Večer Verunka přistihla dědka, jak se prohlíží v zrcadle.
 
@@ -156,8 +140,6 @@ Kokosový dědek se poťouchle usmál. „A co když budete mít kreslení?“
 ## 9.  
 Paní učitelka má prima nápady
 
-  
-
 Paní učitelka hned příští den prvňákům řekla: „Děti, já mám prima nápad. Zítra si budeme kreslit.“
 
 „Já umím auto! Já kačera Donalda! Já méďu!“ volaly děti.
@@ -168,8 +150,6 @@ Paní učitelka hned příští den prvňákům řekla: „Děti, já mám prima
 
 ## 10.  
 Skoro obyčejný kokos
-
-  
 
 Verunka si ráno přibalila k učení banán.
 
@@ -192,8 +172,6 @@ A vypadal opravdu skoro jako obyčejný kokos. A tak si ho Verunka vzala do š
 ## 11.  
 Martínek má rád ředkvičky
 
-  
-
 Ve třídě pak každý prvňáček položil na stolek před sebe nějaké ovoce. Jen Martínek Pecha si přinesl svazek ředkviček.
 
 „Ale ředkvičky nejsou ovoce, viď, Martínku?“ pohladila ho po vlasech paní učitelka.
@@ -202,8 +180,6 @@ Ve třídě pak každý prvňáček položil na stolek před sebe nějaké ovoce
 
 ## 12.  
 Verunka má ráda kokos
-
-  
 
 Aki měl před sebou ananas.
 
@@ -219,8 +195,6 @@ A Verunka sáhla do batůžku a postavila na stolek dědka.
 
 ## 13.  
 Dědeček je kouzelníkem
-
-  
 
 Verunka si dala záležet, aby nakreslila kokos tak, jak má opravdový kokosový ořech vypadat. Zato Aki nakreslil ananas divně. Pomaloval ho válečnými barvami a do jedné ruky mu přikreslil maličké kopí. Děti se smály, ale paní učitelka je utišila a řekla: „Aki, z tebe bude malíř! Ale proč sis vymyslel takhle divně pomalovaný ananas a s kopím?“
 
@@ -239,8 +213,6 @@ Verunka si dala záležet, aby nakreslila kokos tak, jak má opravdový kokosov�
 ## 14.  
 Slíbené překvapení
 
-  
-
 Pak se paní učitelka podívala na hodinky a zvolala: „A teď to slíbené překvapení! Děti, smějí žáci jíst při vyučování?“
 
 „Nesmějí,“ odpověděli prvňáci.
@@ -252,8 +224,6 @@ Pak se paní učitelka podívala na hodinky a zvolala: „A teď to slíbené 
 ## 15.  
 O lidojedech a kokosojedech
 
-  
-
 Tak si nikdo, kromě Akiho, nevšiml, že se kokosový dědek honem schoval v batůžku a něco tam nespokojeně bručel o lidojedech a kokosojedech.
 
 „Pssst!“ Verunka ho pleskla. Ale to neměla dělat. To dědka urazilo!
@@ -264,8 +234,6 @@ Jenže vtom zazvonil školní zvonek a vyrazila celá třída. Dědek se v tom
 
 ## 16.  
 Taková spousta dědečků
-
-  
 
 „Aki, a tvůj dědeček je opravdu kouzelník?“ vyzvídala druhý den Verunka.
 
@@ -290,8 +258,6 @@ Taková spousta dědečků
 ## 17.  
 Ani dědeček, ani kokos
 
-  
-
 „To je zvláštní,“ přemýšlela doma Verunka nahlas, „Aki tě viděl a připadal jsi mu úplně normální.“
 
 „A nejsem snad?“ rozčilil se dědek.
@@ -307,8 +273,6 @@ Ani dědeček, ani kokos
 ## 18.  
 Verunka se lekla
 
-  
-
 Verunka se teď každé ráno těšila dvakrát. Jednou do školy a podruhé na Akiho. Pořád ji něčím překvapoval.
 
 Třeba tuhle. „Něco ti ukážu,“ zašeptal o přestávce.
@@ -323,8 +287,6 @@ A Verunka se lekla.
 
 ## 19.  
 Neviditelné zvířátko
-
-  
 
 „Co je to?“ vykřikla Verunka.
 
@@ -343,8 +305,6 @@ Neviditelné zvířátko
 ## 20.  
 Paní učitelka vyjekla
 
-  
-
 Mezitím zazvonilo a paní učitelka vešla do třídy.
 
 „Máte všichni domácí cvičení?“ zeptala se a prošla mezi lavicemi. Zastavila se u Akiho. Náhodou položila ruku na jeho zelený sešit. A vyjekla.
@@ -355,8 +315,6 @@ Třásla se a koukala na to, co držela v ruce.
 
 ## 21.  
 A co hadi?
-
-  
 
 „To je, prosím, chameleon,“ řekl Aki. „Ale nic nedělá. Ani nekouše.“
 
@@ -373,8 +331,6 @@ A co hadi?
 ## 22.  
 Verunka půjde na fotbal
 
-  
-
 Hned druhý den, bylo to v pátek, se Aki Verunky zeptal, co dělá v sobotu. A Verunka řekla, že asi nic.
 
 „Tak to bych tě mohl pozvat na tatínka. On totiž hraje proti Spartě a máma půjde s námi. Co říkáš?“
@@ -385,8 +341,6 @@ Hned druhý den, bylo to v pátek, se Aki Verunky zeptal, co dělá v sobotu. 
 
 ## 23.  
 Všichni se diví
-
-  
 
 Když Verunka při večeři řekla, že ji Aki pozval na tatínka, všichni se divili.
 
@@ -401,8 +355,6 @@ Když Verunka při večeři řekla, že ji Aki pozval na tatínka, všichni se d
 ## 24.  
 Všichni jsou trochu nervózní
 
-  
-
 Přišla sobota a Verunka nevěděla, co si má obléknout.
 
 „Poslouchej, už jsem z tebe nervózní. Vezmeš si kraťasy a tričko – a basta! Fotbal není divadlo!“ řekla maminka.
@@ -416,21 +368,15 @@ Přišla sobota a Verunka nevěděla, co si má obléknout.
 ## 25.  
 Návštěva a koláč
 
-  
-
 První přišel Lukášek a chvíli po něm i Aki s maminkou. Aki měl na sobě žluté fotbalové tričko a na nohou černé kopačky. Jeho mamince to také moc slušelo. Vypadala jako slečna z nějakého obrázkového časopisu, ale hned se vrhla na babiččin švestkový koláč. Byla dokonce rychlejší než Lukášek – a to je co říct.
 
 ## 26.  
 Divné divadlo
 
-  
-
 Stadion byl plný, ale oni měli místa v první řadě. Verunka si připadala jako v divadle Až na to, že v divadle diváci sedí pěkně zticha a nehulákají a nepískají na herce ani na sebe. Bylo to divadlo, ale divné.
 
 ## 27.  
 Dědek křičí góóól
-
-  
 
 Veronika se divila všemu, co na hřišti viděla. A kokosový dědek, kterého vzala v batůžku s sebou, byl v sedmém nebi. Radoval se, křičel a hvízdal jako ostatní diváci, v té vřavě ho však nebylo vůbec slyšet. Hráči se honili po hřišti, ale pak Akiho tatínek dostal míč, udělal kličku sparťanskému brankáři a…
 
@@ -439,16 +385,12 @@ Veronika se divila všemu, co na hřišti viděla. A kokosový dědek, kterého
 ## 28.  
 Dědek naříká ze všech nejvíc
 
-  
-
 Pak se zase dlouho běhalo tam a sem, sem a tam a dohromady se nic nedělo. Jenže najednou jeden sparťanský útočník nakopl míč tak prudce, že…
 
 „GÓÓÓL!!!“ křičeli a objímali se všichni hráči a fanoušci Sparty. A fanoušci Slavie se chytali za hlavu a naříkali. Ale ze všech nejvíc naříkal kokosový dědek.
 
 ## 29.  
 Dědek poráží Spartu
-
-  
 
 Bylo to nerozhodně. A užuž se blížil konec zápasu… A to dědek nevydržel. Vyskočil z batůžku a obrovským obloukem dopadl do trávy. Akiho tatínek si ho spletl s míčem a chtěl ho vší silou nakopnout. Dědek jen tak tak uhnul. A pak se rozběhl přes celé hřiště, udělal kličku sparťanskému brankáři a…
 
@@ -458,8 +400,6 @@ Dědek porazil Spartu 2:1. Už se těšil, jak se o něm bude zítra psát ve v
 
 ## 30.  
 Veronika je moc chytrá
-
-  
 
 Příští den dědek koukal do novin (držel je obráceně) a kroutil hlavou.
 

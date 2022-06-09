@@ -6,14 +6,10 @@ contentType: prose
 ## 1.  
 Pan Hubert objednává pizzu
 
-  
-
 Byl první májový den. Po obědě tatínek s maminkou dali Verunce pusu a vzali se za ruce. Tvářili se jinak než jindy. Tak nějak zamilovaně. Maminka řekla babičce Agátě, ať dneska žádnou večeři ne­chystá. Tatínek řekl, že už objednal telefonicky pro každého jeho oblíbenou pizzu. A odešli na májovou procházku.
 
 ## 2.  
 Babička Agáta si dvakrát povzdechla
-
-  
 
 Babička Agáta si povzdechla: „Byl měsíc máj, byl lásky čas… V máji jsem chodívala s jedním mládencem na Petřín. Kolem kvetly bezy, tráva se zelenala, ten mládenec mě držel za ruku a Prahu jsme měli pod sebou jako na dlani. Och, to bývaly krásné procházky,“ zasnila se babička Agáta.
 
@@ -23,8 +19,6 @@ Babička Agáta si povzdechla: „Byl měsíc máj, byl lásky čas… V máji 
 
 ## 3.  
 Veronika se chystá do divadla
-
-  
 
 Veronika měla jít to odpoledne s Lukáškem do divadla. Lukášova maminka dostala dva volné lístky. A přímo do lóže!
 
@@ -38,8 +32,6 @@ Už se zase hádali.
 
 ## 4.  
 Na babičku Agátu se něco dívá
-
-  
 
 „Verunko, s kým tam mluvíš?“ křikla babička Agáta z kuchyně.
 
@@ -56,8 +48,6 @@ A to „něco“ byl kokosový dědek.
 ## 5.  
 Babička Agáta jde do kavárny
 
-  
-
 Veronika se přemluvit nedala.
 
 Ne a ne, do divadla s ní dědek nesmí!
@@ -69,21 +59,15 @@ Lukáš už tam byl s maminkou dávno před začátkem představení, a tak Ve
 ## 6.  
 Byl to sen?
 
-  
-
 Kokosový dědek zatím v postýlce trucoval, protože musel zůstat doma. Nakonec z toho trucování usnul a měl sen. Ale byl to sen? Kdepak, bylo to tak opravdové, že to musela být pravda. Dědek přece už nebyl v postýlce! Dědek se tajně schoval do babiččiny tašky s cizími časopisy. A teď se vezl tramvají…
 
 ## 7.  
 Dědek se veze tramvají
 
-  
-
 Tramvaj se loudala. „Aspoň něco uvidíme,“ libovala si Verunka, ale ven se nedívala. Dívala se, jak jí to sluší. Ty parádní šatičky měla dneska na sobě poprvé, a to je vážná věc. A tak se na sebe dívala a babička Agáta – a ještě dvě paní přes uličku – se na ni také dívaly a také si říkaly, jak jí to sluší.
 
 ## 8.  
 Babička Agáta má ráda kokosovou
-
-  
 
 Před divadlem už čekal Lukáš. Babička dětem zamávala, vesele zatočila taškou – divže dědek nevypadl – a přešla přes ulici do kavárny Slavie. Kamarádky seděly u mramorového stolečku. Zobaly lžičkou kávu se šlehačkou. „Agáto, už tě čekáme! Neseš ty časopisy?“ volaly.
 
@@ -91,8 +75,6 @@ Před divadlem už čekal Lukáš. Babička dětem zamávala, vesele zatočila t
 
 ## 9.  
 Dědek je prozrazen
-
-  
 
 Kokosový dědek se v tašce zavrtěl. „Vida, tak Agáta má ráda kokosovou!“
 
@@ -105,14 +87,10 @@ Ale místo časopisů vytáhla z tašky _kokosového dědka_!
 ## 10.  
 A nastala mela
 
-  
-
 Babička Agáta vykřikla: „Já se z toho snad zblázním! Kde ses tu vzal?“ Kamarádka Jana vykulila oči: „Holky, ona s tím kokosem mluví!“ Kamarádka Věra se vylekala: „Agáto, je ti dobře? Není ti něco?“ Babička Agáta se rychle vzpamatovala. „To nic,“ řekla. „Asi jsem nějaká přetažená.“ Ale kamarádka Hana najednou natáhla ruku, aby si kokosového dědka zblízka prohlédla. A jak po něm sáhla, tak nastala mela.
 
 ## 11.  
 Mela v kavárně Slavie
-
-  
 
 Dědek se zhoupl v kolenou a seskočil ze stolu a kutálel se pryč.
 
@@ -123,8 +101,6 @@ Kavárna Slavie pamatuje hodně, ale takovou melu ještě nezažila.
 ## 12.  
 Dědek přechází na červenou
 
-  
-
 Kokosový dědek vyběhl na ulici. Nikdo ho nepronásledoval. Zuřivý mopslík se pořád ještě držel číšníkovy nohavice. Dědek se rozhlédl. Na semaforu svítila červená. Auta stála na křižovatce. Dědek mezi nimi prokličkoval až k hloučku lidí před Národním divadlem.
 
 „Jéje! Koukejte!“ vypískla nějaká slečna a ukázala na dědka.
@@ -133,8 +109,6 @@ Ale dědek poskočil a zmizel ve dveřích postranního vchodu.
 
 ## 13.  
 Dědek běží za opicemi
-
-  
 
 Ocitl se v úzké chodbě. Bylo tu plno dveří. Najednou se jedny otevřely. Vyběhl z nich houf opic. Šťouchaly do sebe a vřískaly jako děti.
 
@@ -147,14 +121,10 @@ A kokosový dědek se rozběhl za nimi.
 ## 14.  
 A zatím Veronika…
 
-  
-
 A zatím Veronika s Lukášem seděli na balkoně v lóži a čekali, až se zvedne opona a začne druhé jednání. Balet Mauglí byl ohromně napínavý. Mauglí byl malý indický chlapec vychovaný vlkem Akélou a pořád mu hrozilo nějaké nebezpečí. Zvláště od zlého tygra Šerchána. Nebo od zlomyslných opic. Ty právě za staženou oponou šplhaly na palmu. A teprve teď si kokosový dědek všiml, že to nejsou opravdové opice, ale děti z baletní školy. Vyběhl za nimi, také si našel jednu palmu a v její koruně se schoval.
 
 ## 15.  
 Dědek je v džungli
-
-  
 
 Chvíli se nic nedělo. Ale pak se zvedla opona a jeviště se rozsvítilo. Představovalo rudý západ slunce nad zelenou džunglí. Z houští vyšel malý Mauglí a pátravě se rozhlížel. Asi ho někdo pronásledoval.
 
@@ -164,8 +134,6 @@ _Byl to ukrutný tygr Šerchán!_
 
 ## 16.  
 Veronika vyrušuje
-
-  
 
 Mauglí se prodíral vysokou trávou a tygr Šerchán za ním tiše našlapoval mezi liánami. Byly z něho vidět jen žluté oči a děsné tesáky.
 
@@ -184,16 +152,12 @@ A bylo ticho. Jen hudba zlověstně hrála a Mauglí pořád ještě ne­věd�
 ## 17.  
 A najednou…
 
-  
-
 A do toho úplného ticha se najednou ozval hlas. „Mauglí, utíkej! Honem! Sem ke mně! Na palmu!“
 
 V tu chvíli všichni na jevišti i v hledišti strnuli. Opice na stromech, Mauglí v trávě i tygr Šerchán mezi liánami. Kdo si to dovolil při baletu křičet? Byla to taková drzost, že hudba přestala hrát a tanečníci strnuli a jen po sobě koukali.
 
 ## 18.  
 Běda ti, Šercháne!
-
-  
 
 Po chvíli orchestr znova spustil a balet pokračoval. Mauglí zase tančil ve vysoké trávě a tygr Šerchán z radosti nad snadným úlovkem vytáčel piruety.
 
@@ -202,21 +166,15 @@ A to už bylo na dědka moc. Začal v koruně palmy poskakovat, mával rukama 
 ## 19.  
 Ostuda v Národním divadle
 
-  
-
 A pak dědek začal trhat z palmy kokosové ořechy a házel je dolů. Chtěl Mauglího za každou cenu zachránit. Párkrát se do Šerchána strefil, ale neublížil mu. Kokosy byly totiž z pěnové gumy. Jen se od tygra odrážely a skákaly po jevišti jako míče. Z napínavého baletu se stala taškařice! Opice se začaly těmi divadelními kokosy koulovat a Šerchán si serval z těla svůj pruhovaný kostým. Ukázalo se, že to není žádný zlý tygr, nýbrž hodný baletní mistr pan Kokočka.
 
 ## 20.  
 Dědek prchá z místa činu
 
-  
-
 V Národním divadle se už přihodilo ledacos, ale tohle bylo trochu moc. Sám ředitel divadla vyběhl na jeviště a spustil řev. Přivolal si všechny herce i kulisáky a hledal viníka toho zpackaného představení. Všichni koukali jako zkoprnělí. Oni přece za nic nemohou! Kokosový dědek poznal, že je zle. Seskočil z palmy do vysoké trávy a nenápadně se vytratil. Proběhl úzkou chodbou až k postrannímu vchodu a odtud rovnou na ulici.
 
 ## 21.  
 Taková pěkná náhodička
-
-  
 
 „Musím se dostat honem domů!“ říkal si dědek. Ale jak?
 
@@ -229,21 +187,15 @@ A tu si všiml, že po kraji vozovky jede na kole mladík v pestrobarevné bun
 ## 22.  
 Kokosová pizza
 
-  
-
 Mladík šlapal do pedálů a kokosový dědek se vezl jako pán. Lidé na chodníku se zastavovali a kroutili hlavami. „Koukejte, lidičky, proč veze kokos! Copak je nějaká kokosová pizza?“ divili se.
 
 ## 23.  
 Dědek je zase doma
 
-  
-
 Tak projeli městem, propletli se mezi auty, předjeli pár loudavých tramvají a za chvíli zastavili před domem, kde bydleli Hubertovi. Mladík popadl čtyři krabice pizzy a šlapal do třetího patra. Dědek se rozběhl za ním, a když pan Hubert v otevřených dveřích pizzu přijímal a dával mladíkovi nějaké drobné od cesty, proklouzl mezi nimi do předsíně a pak do Verunčina pokojíku. A tady se schoval, aby ho Verunka nenašla a měla o něho strach.
 
 ## 24.  
 Veronika je unavená a babička Agáta zamyšlená
-
-  
 
 Verunka přišla domů, ale dědek nikde. Myslela si, že se urazil, protože ho nevzala s sebou do divadla. A že jí z trucu utekl. V kuchyni smutně uždibovala pizzu a mlčela.
 
@@ -264,8 +216,6 @@ A to už tatínek vyskočil od stolu.
 ## 25.  
 Babička Agáta najde starou fotografii
 
-  
-
 Babička Agáta odešla do svého pokoje. Na starém gramofonu si pustila desku.
 
 „A jéje, babička si pouští Beatles,“ prohodil tatínek v kuchyni.
@@ -279,8 +229,6 @@ Byl na ní mladý muž s tropickou helmou na hlavě. V ruce držel velký koko
 ## 26.  
 Veronika najde kokosového dědka
 
-  
-
 Veronika večer pokojík znovu prohledala, ale dědek nikde. Přikryla se peřinou až pod bradu a chtěla rychle usnout, aby už na to nemyslela. Najednou uslyšela: „Auvajs! Co mě kopeš?“ – a spatřila rozespalého dědka, který se vyštrachal z peřin. Hned ho popadla a byla zase šťastná.
 
 „Proč ses mi schoval? Kde jsi byl?“ vyptávala se.
@@ -289,8 +237,6 @@ Veronika večer pokojík znovu prohledala, ale dědek nikde. Přikryla se peřin
 
 ## 27.  
 Dědek se postaví na hlavu
-
-  
 
 „Jééé! Ty si zase vymýšlíš!“ smála se Verunka. „Vždyť jsi tady celou dobu spal. A něco se ti zdálo.“
 
@@ -303,8 +249,6 @@ Dědek se postaví na hlavu
 ## 28.  
 Agátě se něco nezdá
 
-  
-
 Před ránem se udělalo chladno. Babička Agáta vstala a šla Veroniku přikrýt, protože určitě bude zase odkopaná. A první, co spatřila, byl kokos. Stál na hlavě, třepal nožičkama, ale hned přestal, když babička Agáta vešla dovnitř.
 
 „Stejně se mi tu něco nezdá,“ řekla si. „A moc ráda bych věděla, kdo vlastně Verunce ten divný dárek z Haiti poslal!“
@@ -314,8 +258,6 @@ A pak kokos opatrně položila vedle spící Verunky.
 ## 29.  
 Dědek sedí za stolem
 
-  
-
 Druhý den šla Veronika s maminkou nakupovat. Babička pekla buchty a kokos posadila na židli za stůl. Asi aby nebyla tak sama.
 
 Buchty voněly, babička Agáta si zpívala a dědkovi bylo krásně.
@@ -324,8 +266,6 @@ Buchty voněly, babička Agáta si zpívala a dědkovi bylo krásně.
 
 ## 30.  
 Lukášovi se také něco nezdá
-
-  
 
 Za chvíli někdo zvonil. Byl to Lukáš. „Verunka není doma, ale pojď na buchty,“ přivítala ho babička Agáta.
 
@@ -341,7 +281,5 @@ Lukáš se zamyslel. „To možná je,“ řekl po chvíli. „Jenže se kolem n
 
 ## 31.  
 Něco se děje
-
-  
 
 A pak se opravdu dlouho nic nedělo. Kokosový dědek dělal jakoby nic, babička Agáta a Verunka se tvářily zrovna tak. Ale všichni věděli, že se něco děje.

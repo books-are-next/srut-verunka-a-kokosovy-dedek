@@ -6,8 +6,6 @@ contentType: prose
 ## 1.  
 Domácí bruslení
 
-  
-
 Ráno vítr rozfoukal sníh a začalo mrznout. Lukáš šel na kluziště, ale Verunka zůstala doma.
 
 „Víš, já ještě neumím moc bruslit,“ přiznala dědkovi.
@@ -24,8 +22,6 @@ Shrnuli koberec, a protože babička včera naleštila parkety, klouzalo to po 
 
 ## 2.  
 Falešné tetičky
-
-  
 
 „Dneska odpoledne k nám přijdou tetičky,“ svěřila se Veronika kokosovému dědkovi.
 
@@ -46,14 +42,10 @@ Falešné tetičky
 ## 3.  
 Způsobné chování
 
-  
-
 Návštěva falešných tetiček v čele s tetičkou Uršulou se protáhla až do večera a celou tu dobu se Veronika musela chovat způsobně. Způsobné chování je velmi namáhavé. A tak Verunka před spaním řekla dědkovi jen: „Dobrou noc!“ A usnula.
 
 ## 4.  
 Žádný opravdový dědeček
-
-  
 
 Postěžovala si až ráno.
 
@@ -74,8 +66,6 @@ Stěžovala si dlouho a nakonec řekla:
 ## 5.  
 Tajnosti babičky Agáty
 
-  
-
 Babička Agáta byla moc hodná. Ale nikdy nedovolila, aby Veronika kramařila v její ložnici. Jenže Veronika byla hrozně zvědavá, a právě dneska víc než jindy.
 
 A tak do její ložnice tajně vklouzla. Nejdřív potichoučku otevřela skříň. Tam bylo krásných šatů!
@@ -85,16 +75,12 @@ A těch klobouků!
 ## 6.  
 Jakoby nic
 
-  
-
 Ale stačila si jich před zrcadlem vyzkoušet jen pár.
 
 „Čas utíká moc rychle, když člověk dělá něco tajného,“ stěžoval si často kokosový dědek a měl pravdu. Za chvíli totiž zarachotil klíč v zámku, babička přišla a Veronika dělala jakoby nic. Jenže to své jakoby nic dělala tak důkladně, že babička všechno poznala…
 
 ## 7.  
 Zaklínadlo Šalalalali
-
-  
 
 Ale babička Agáta se kupodivu nezlobila. Zavedla Veroniku do ložnice a otevřela prádelník. Vyndala z něho velikánský pestrobarevný šátek a šňůru skleněných korálků.
 
@@ -108,12 +94,10 @@ Verunka poskakovala před zrcadlem a moc se sama sobě líbila. Babička pustil
 
 To zpívání babičky Agáty znělo jako zaklínadlo. Verunka si z něho zapamatovala jen tajné slovo:
 
-Šalalalali!
+_Šalalalali!_
 
 ## 8.  
 Veronika má svátek
-
-  
 
 To byl den! Tatínek se slavnostně usmíval a maminka se slavnostně točila kolem plotny.
 
@@ -133,8 +117,6 @@ To byl den! Tatínek se slavnostně usmíval a maminka se slavnostně točila k
 
 ## 9.  
 Povídání potmě
-
-  
 
 Večer maminka nakoukla do dětského pokojíku: „Verunko, teď mu­síš honem spát.“
 
@@ -159,8 +141,6 @@ Pak chvíli přemýšlela a najednou to zaklínadlo vyslovila:
 ## 10.  
 Opravdové zaklínadlo
 
-  
-
 A sotva ho vyslovila, kokosový dědek se rozsvítil!
 
 Ale ne jako. _On se rozsvítil doopravdy!_
@@ -169,8 +149,6 @@ Svítil jako stolní lampa. Verunka ho musela přikrýt peřinou, aby na to nikd
 
 ## 11.  
 Jedeme na hory
-
-  
 
 První, co Veronika udělala, když se probudila, bylo, že nakoukla pod peřinu. Ale kokosový dědek už nesvítil.
 
@@ -184,8 +162,6 @@ A pak rychle vyskočila a strčila dědka do batůžku. Schovala ho mezi pono�
 
 ## 12.  
 Tatínek začíná být nervózní
-
-  
 
 Veronika se uvelebila vzadu a batůžek hodila vedle sebe.
 
@@ -204,8 +180,6 @@ Veronika se uvelebila vzadu a batůžek hodila vedle sebe.
 ## 13.  
 Kam všichni jedou
 
-  
-
 „Kam všichni jedou?“ rozčiloval se tatínek a bouchal do volantu, protože auta před ním se posunovala jako smuteční průvod hlemýžďů.
 
 A za chvíli: „Proč všichni stojí?!“
@@ -216,8 +190,6 @@ Začaly zimní prázdniny a rodiny s dětmi vyrazily na hory. A jak tak auta 
 
 ## 14.  
 Záhada
-
-  
 
 A toho kokosový dědek využil. Vydrápal se z batůžku a vyskočil na střechu škodovky mezi připevněné lyže. Vůbec nikdo – ani Ve­runka! – si toho nevšiml.
 
@@ -231,8 +203,6 @@ Hned nato se kolona pomaloučku rozjela. Ale auta najednou uhýbala na kraj vozo
 
 ## 15.  
 Kokosový majáček
-
-  
 
 „Vystupovat! Jsme na místě!“ zvolal tatínek radostně před zasněženou chatou.
 
@@ -249,8 +219,6 @@ Kokosový dědek vykoukl ven a rozesmál se na celé kolo.
 ## 16.  
 Proměněný tatínek
 
-  
-
 Tatínek byl na horách jako proměněný. Všechny starosti nechal v Praze, učil Verunku lyžovat, běhal s ní na běžkách a vůbec s ním byla legrace.
 
 Zato dědek musel pořád zůstávat v chatě, aby se nevyzradil.
@@ -260,14 +228,10 @@ Ale moc mu to nevadilo, protože si jako každý kokos potrpěl na teploučko.
 ## 17.  
 Sněhová koule
 
-  
-
 Poslední den sluníčko pěkně svítilo. Kokosový dědek se vykradl z chaty. Někde dole slyšel Verunku, a tak si řekl, že ji překvapí. Vy­bral si nejprudší svah, skočil do sněhu a začal válet sudy. Ale jak se kutálel, sníh se na něho nabaloval. Za chvíli se z kopce valila sněhová koule.
 
 ## 18.  
 Běhající sněhulák
-
-  
 
 Koule se zastavila až na loučce, kde lyžovala Veronika.
 
@@ -282,8 +246,6 @@ Odepnul si lyže a rychle uválel druhou kouli. A maminka s Ve­ronikou hned 
 ## 19.  
 Tatínek nemá rád záhady
 
-  
-
 Verunčin tatínek měl rád pořádek.
 
 „Tohle není normální!“ vykřikoval. „Sněhulák nemá co utíkat!“
@@ -296,8 +258,6 @@ Taky proto, že ty mrňavé stopy vedly přímo do jejich chaty!
 
 ## 20.  
 Veronika se zlobí
-
-  
 
 Veronika vyběhla napřed do pokoje. A ovšem! Kokosový dědek se hřál v posteli. „Ty musíš pořád dělat, co nemáš!“ hubovala.
 
@@ -314,8 +274,6 @@ Veronika vyběhla napřed do pokoje. A ovšem! Kokosový dědek se hřál v po
 ## 21.  
 Tatínek je na výzvědách
 
-  
-
 Kokosový dědek musel zase honem do batůžku, protože maminka se už vrátila. Ale zvědavě vykukoval, protože musel všechno vidět a slyšet.
 
 „Kde zůstal táta?“ zeptala se Veronika.
@@ -329,14 +287,10 @@ Kokosový dědek musel zase honem do batůžku, protože maminka se už vrátila
 ## 22.  
 Záhadné stopy
 
-  
-
 Tatínek vyšel z chaty a rozhlížel se kolem. Byl už podvečer, ale sníh jiskřil a zářil jako ve dne. A v tom sněhu byly pořád ty mrňavé, záhadné stopy. A tak se vydal jejich směrem.
 
 ## 23.  
 Byl to jezevčík
-
-  
 
 Stopy vedly od chaty dolů ke sjezdovce. Nikdo už nelyžoval. Jen v závěji u dveří se sem tam kutálela a poskakovala velká sněhová koule!
 
@@ -349,8 +303,6 @@ Rozběhl se, popadl sněhovou kouli, koule se rozštěkala a vyklubal se z ní
 ## 24.  
 Zase doma
 
-  
-
 Babička Agáta uvařila nudlovou polévku, usmažila řízky a upekla bábovku, aby byl návrat z hor jaksepatří slavnostní.
 
 „Můžu pozvat na bábovku Lukáška?“ zeptala se Veronika po obědě.
@@ -359,8 +311,6 @@ Babička Agáta uvařila nudlovou polévku, usmažila řízky a upekla bábovku
 
 ## 25.  
 Co zažil Lukášek
-
-  
 
 Lukáš se cpal bábovkou a s plnou pusou všem sděloval, že takhle senzační bábovku ještě nikdy nejedl.
 
@@ -375,8 +325,6 @@ Ale tatínek neodpověděl. Jen celý zrudl v obličeji a zakuckal se. Asi spo
 ## 26.  
 Babička Agáta vaří
 
-  
-
 „Tak co budeme dneska vařit?“ zeptala se ráno babička Agáta.
 
 „Tak třeba…“ Verunka předstírala, že o tom usilovně přemýšlí, i když to měla už dávno vymyšlené. „Tak třeba smažený sýr s tatarkou a hranolky!“
@@ -389,8 +337,6 @@ Babička Agáta ráda vařila zdravě.
 
 ## 27.  
 Kokosový dědek rozumuje
-
-  
 
 Když babička Agáta odběhla k panu zelináři pro kilo mrkve, šla si Veronika kokosovému dědkovi postěžovat: „Dneska bude k obědu dušená mrkev, protože je zdravá. Ale mně vůbec nechutná!“
 
@@ -406,8 +352,6 @@ Když babička Agáta odběhla k panu zelináři pro kilo mrkve, šla si Veroni
 
 ## 28.  
 Co dělají vrány
-
-  
 
 Nakonec ten oběd Verunce chutnal, i když byl zdravý. Po obědě se s dědkem koukali z okna do dvora. Stál tam strom a na ten strom přiletěly vrány.
 
