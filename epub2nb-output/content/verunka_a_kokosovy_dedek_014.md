@@ -3,6 +3,8 @@ title: Říjen
 contentType: prose
 ---
 
+<section>
+
 ## 1.  
 Všichni kluci jsou stejní
 
@@ -389,3 +391,5 @@ Děti se z výletu vrátily až pozdě večer. Před školou už netrpělivě �
 „Dědku, dědku, kde jsi? No tak, neschovávej se, musím ti povědět o tom výletu,“ volala.
 
 A tak se dědek ukázal a nechal si všechno vyprávět a radoval se, jak na Verunku vyzrál. Všechno přece viděl, všechno zažil, moc pěkně si s Fančou zastrašili – a hlavně – všechno tajně! A už se těšil, co zažije v listopadu.
+
+</section>

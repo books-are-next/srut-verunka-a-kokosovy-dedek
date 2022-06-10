@@ -3,6 +3,8 @@ title: Leden
 contentType: prose
 ---
 
+<section>
+
 ## 1.  
 Nový rok
 
@@ -399,3 +401,5 @@ Veronika ho důkladně prohlížela, ale žádné střední – ani jiné – 
 „Na mou duši, závidí ti, že ti sluší!“ zvolal kokosový dědek.
 
 A byl už zase jako rybička.
+
+</section>

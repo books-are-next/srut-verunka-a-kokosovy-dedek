@@ -3,6 +3,8 @@ title: Září
 contentType: prose
 ---
 
+<section>
+
 ## 1.  
 Těšení a bání
 
@@ -416,3 +418,5 @@ Veronika nahlas četla: „Nerozhodný zápas. Slavie–Sparta 1:1.“
 Verunka se zamyslela. „Tak sis to asi moc přál. Já, když si moc přeju, aby se něco stalo doopravdy, tak se to jako stane, i když se to vlastně doopravdy nestane. Chápeš?“
 
 „Nechápu,“ zabručel dědek. „Od té doby, co chodíš do školy, jsi na mě už nějaká moc chytrá.“
+
+</section>

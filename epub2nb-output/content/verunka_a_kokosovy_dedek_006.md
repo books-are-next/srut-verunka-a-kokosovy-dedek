@@ -3,6 +3,8 @@ title: Únor
 contentType: prose
 ---
 
+<section>
+
 ## 1.  
 Domácí bruslení
 
@@ -362,3 +364,5 @@ Nakonec ten oběd Verunce chutnal, i když byl zdravý. Po obědě se s dědke
 „To jo,“ připustil dědek, „ale někdo napřed musí tu zimu odnést. A to právě dělají vrány!“
 
 „Aha,“ zamyslela se Verunka. „Ty jsi tak chytrý!“
+
+</section>

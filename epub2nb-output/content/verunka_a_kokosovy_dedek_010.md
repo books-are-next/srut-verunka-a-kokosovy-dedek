@@ -3,6 +3,8 @@ title: Červen
 contentType: prose
 ---
 
+<section>
+
 ## 1.  
 Veronika trochu žárlí
 
@@ -290,3 +292,5 @@ Brzy potom přišla i babička Agáta od pekaře. Postavila na čaj a mazala r
 Babička Agáta ji pohladila po vlasech. „Nic si z toho, holčičko, nedělej! Ona tetička Uršula je taková… zvláštní. A není to žádná tvoje opravdová tetička. Jen k nám ráda chodí na návštěvu. Příště jí sama neotvírej!“
 
 „Ano,“ řekla Verunka. „Falešným tetičkám se neotevírá.“
+
+</section>
