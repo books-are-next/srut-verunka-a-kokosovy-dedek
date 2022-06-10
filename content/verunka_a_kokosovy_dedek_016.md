@@ -3,6 +3,8 @@ title: Prosinec
 contentType: prose
 ---
 
+<section>
+
 ## 1.  
 Akiho dědeček
 
@@ -395,3 +397,5 @@ Ale ve sluchátku už slyšela jenom šumění, jako když se snáší tichý sn
 „Kde jsi byl?“ divila se Verunka.
 
 „Ale jen jsem potřeboval zatelefonovat někomu, koho mám moc rád. Takový tajný hovor, víš?“ řekl dědeček Tomík a potutelně se usmíval.
+
+</section>

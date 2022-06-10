@@ -3,6 +3,8 @@ title: Červenec
 contentType: prose
 ---
 
+<section>
+
 ## 1.  
 Lukáš jede k moři
 
@@ -339,3 +341,5 @@ Kokosový dědek na okně poskočil a chtěl se schovat za záclonu. Ale tím j
 Uršula vyběhla na ulici, ani se nerozloučila.
 
 A to koktání ji přešlo až doma.
+
+</section>

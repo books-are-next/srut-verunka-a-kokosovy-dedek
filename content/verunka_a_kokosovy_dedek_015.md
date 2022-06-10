@@ -3,6 +3,8 @@ title: Listopad
 contentType: prose
 ---
 
+<section>
+
 ## 1.  
 Verunce se nechce vstávat
 
@@ -328,3 +330,5 @@ Za pár dnů Verunka zase mohla jít do školy. Nic mimořádného se u nich v�
 „Ha-lo!“ volal. „Další senzace! Představ si, že Sochor se zase přihlásil z počtů! Úplně bez chyby násobil pěti. Jestli to s ním takhle půjde dál, tak do konce roku bude umět celou násobilku!“
 
 Lukáš se svému vtipu hrozně smál, ale Verunka byla myšlenkami jinde. Myslela na babičku Agátu a na to, co jí řekl kokosový dědek.
+
+</section>

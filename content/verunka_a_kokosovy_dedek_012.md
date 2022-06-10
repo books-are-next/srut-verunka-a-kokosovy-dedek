@@ -3,6 +3,8 @@ title: Srpen
 contentType: prose
 ---
 
+<section>
+
 ## 1.  
 Lukáš něco chce
 
@@ -341,3 +343,5 @@ A měla pravdu. Na bleším trhu bylo ke koupi všecko možné: staré porcelá
 Návrat domů
 
 A co bylo pak? Pak se všichni, i s maminkou, vrátili domů. Veronika chtěla hned navštívit Lukáška a dát mu ten kousek Londýna, ale bylo už moc hodin a zítra ji čekal veliký den. A tak šla rovnou do postele. Protože zaspat první den školy, to by tedy byla pěkná ostuda!
+
+</section>
