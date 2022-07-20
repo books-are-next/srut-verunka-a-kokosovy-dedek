@@ -42,9 +42,9 @@
             "filename": "verunka_a_kokosovy_dedek_001.md",
             "xhtml": "verunka_a_kokosovy_dedek_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -54,9 +54,9 @@
             "filename": "verunka_a_kokosovy_dedek_002.md",
             "xhtml": "verunka_a_kokosovy_dedek_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -66,9 +66,9 @@
             "filename": "verunka_a_kokosovy_dedek_003.md",
             "xhtml": "verunka_a_kokosovy_dedek_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -78,9 +78,9 @@
             "filename": "verunka_a_kokosovy_dedek_004.md",
             "xhtml": "verunka_a_kokosovy_dedek_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -96,7 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Leden"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_006.md",
@@ -108,7 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Únor"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_007.md",
@@ -120,7 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Březen"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_008.md",
@@ -132,7 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Duben"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_009.md",
@@ -144,7 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Květen"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_010.md",
@@ -156,7 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Červen"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_011.md",
@@ -168,7 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Červenec"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_012.md",
@@ -180,7 +187,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Srpen"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_013.md",
@@ -192,7 +200,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Září"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_014.md",
@@ -204,7 +213,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Říjen"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_015.md",
@@ -216,7 +226,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Listopad"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_016.md",
@@ -228,15 +239,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Prosinec"
           },
           {
             "filename": "verunka_a_kokosovy_dedek_017.md",
             "xhtml": "verunka_a_kokosovy_dedek_017.xhtml",
             "id": 16,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -426,6 +438,6 @@
       "user": "books-are-next",
       "repo": "srut-verunka-a-kokosovy-dedek"
     },
-    "generatedAt": 1657186745445
+    "generatedAt": 1658330898054
   }
 }
