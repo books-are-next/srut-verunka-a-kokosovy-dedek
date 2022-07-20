@@ -8,14 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-verunka-a-kokosovy-dedek-94a3948",
-  "revision": "94a3948",
+  "identifier": "srut-verunka-a-kokosovy-dedek-45d0ffd",
+  "revision": "45d0ffd",
   "readingOrder": [
     "promo.html",
-    "verunka_a_kokosovy_dedek_001.html",
-    "verunka_a_kokosovy_dedek_002.html",
-    "verunka_a_kokosovy_dedek_003.html",
-    "verunka_a_kokosovy_dedek_004.html",
     "verunka_a_kokosovy_dedek_005.html",
     "verunka_a_kokosovy_dedek_006.html",
     "verunka_a_kokosovy_dedek_007.html",
@@ -28,11 +24,11 @@
     "verunka_a_kokosovy_dedek_014.html",
     "verunka_a_kokosovy_dedek_015.html",
     "verunka_a_kokosovy_dedek_016.html",
-    "verunka_a_kokosovy_dedek_017.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jul 20 2022 15:29:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658330979618
+    "date": "Wed Jul 20 2022 15:56:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658332618722
   },
   "documents": [
     {
@@ -44,88 +40,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "verunka_a_kokosovy_dedek_001.html",
-      "toc": []
-    },
-    {
-      "title": "Verunka a kokosový dědek",
-      "file": "verunka_a_kokosovy_dedek_001.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "verunka_a_kokosovy_dedek_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Verunka a kokosový dědek",
-      "file": "verunka_a_kokosovy_dedek_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 2,
-      "prev": "verunka_a_kokosovy_dedek_001.html",
-      "next": "verunka_a_kokosovy_dedek_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Verunka a kokosový dědek",
-      "file": "verunka_a_kokosovy_dedek_003.html",
-      "words": 6,
-      "chars": 33,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 3,
-      "prev": "verunka_a_kokosovy_dedek_002.html",
-      "next": "verunka_a_kokosovy_dedek_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Verunka a kokosový dědek",
-      "file": "verunka_a_kokosovy_dedek_004.html",
-      "words": 94,
-      "chars": 608,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 4,
-      "prev": "verunka_a_kokosovy_dedek_003.html",
       "next": "verunka_a_kokosovy_dedek_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Leden",
@@ -134,8 +50,8 @@
       "chars": 13898,
       "ideas": 219,
       "role": "chapter",
-      "order": 5,
-      "prev": "verunka_a_kokosovy_dedek_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "verunka_a_kokosovy_dedek_006.html",
       "toc": [
         {
@@ -372,7 +288,7 @@
       "chars": 12207,
       "ideas": 195,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "verunka_a_kokosovy_dedek_005.html",
       "next": "verunka_a_kokosovy_dedek_007.html",
       "toc": [
@@ -589,7 +505,7 @@
       "chars": 12458,
       "ideas": 191,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "verunka_a_kokosovy_dedek_006.html",
       "next": "verunka_a_kokosovy_dedek_008.html",
       "toc": [
@@ -827,7 +743,7 @@
       "chars": 11141,
       "ideas": 154,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "verunka_a_kokosovy_dedek_007.html",
       "next": "verunka_a_kokosovy_dedek_009.html",
       "toc": [
@@ -1058,7 +974,7 @@
       "chars": 13005,
       "ideas": 157,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "verunka_a_kokosovy_dedek_008.html",
       "next": "verunka_a_kokosovy_dedek_010.html",
       "toc": [
@@ -1296,7 +1212,7 @@
       "chars": 11656,
       "ideas": 160,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "verunka_a_kokosovy_dedek_009.html",
       "next": "verunka_a_kokosovy_dedek_011.html",
       "toc": [
@@ -1527,7 +1443,7 @@
       "chars": 12777,
       "ideas": 185,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "verunka_a_kokosovy_dedek_010.html",
       "next": "verunka_a_kokosovy_dedek_012.html",
       "toc": [
@@ -1765,7 +1681,7 @@
       "chars": 13095,
       "ideas": 186,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "verunka_a_kokosovy_dedek_011.html",
       "next": "verunka_a_kokosovy_dedek_013.html",
       "toc": [
@@ -2003,7 +1919,7 @@
       "chars": 12857,
       "ideas": 223,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "verunka_a_kokosovy_dedek_012.html",
       "next": "verunka_a_kokosovy_dedek_014.html",
       "toc": [
@@ -2234,7 +2150,7 @@
       "chars": 12557,
       "ideas": 210,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "verunka_a_kokosovy_dedek_013.html",
       "next": "verunka_a_kokosovy_dedek_015.html",
       "toc": [
@@ -2472,7 +2388,7 @@
       "chars": 14065,
       "ideas": 179,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "verunka_a_kokosovy_dedek_014.html",
       "next": "verunka_a_kokosovy_dedek_016.html",
       "toc": [
@@ -2703,9 +2619,9 @@
       "chars": 15574,
       "ideas": 216,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "verunka_a_kokosovy_dedek_015.html",
-      "next": "verunka_a_kokosovy_dedek_017.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -2942,20 +2858,20 @@
       ]
     },
     {
-      "title": "Verunka a kokosový dědek",
-      "file": "verunka_a_kokosovy_dedek_017.html",
-      "words": 45,
-      "chars": 305,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 17,
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 136,
+      "chars": 870,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
       "prev": "verunka_a_kokosovy_dedek_016.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -2964,14 +2880,14 @@
   ],
   "totals": {
     "all": {
-      "words": 26955,
-      "chars": 156291,
-      "ideas": 2303
+      "words": 26943,
+      "chars": 156210,
+      "ideas": 2294
     },
     "chapters": {
-      "words": 26947,
-      "chars": 156236,
-      "ideas": 2298
+      "words": 26800,
+      "chars": 155290,
+      "ideas": 2275
     }
   }
 }

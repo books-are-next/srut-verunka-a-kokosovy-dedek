@@ -15,10 +15,6 @@ meta:
   contentType: prose
 readingOrder:
   - promo.html
-  - verunka_a_kokosovy_dedek_001.html
-  - verunka_a_kokosovy_dedek_002.html
-  - verunka_a_kokosovy_dedek_003.html
-  - verunka_a_kokosovy_dedek_004.html
   - verunka_a_kokosovy_dedek_005.html
   - verunka_a_kokosovy_dedek_006.html
   - verunka_a_kokosovy_dedek_007.html
@@ -31,10 +27,46 @@ readingOrder:
   - verunka_a_kokosovy_dedek_014.html
   - verunka_a_kokosovy_dedek_015.html
   - verunka_a_kokosovy_dedek_016.html
-  - verunka_a_kokosovy_dedek_017.html
+  - about.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: verunka_a_kokosovy_dedek_005.html
+        title: Leden
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_006.html
+        title: Únor
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_007.html
+        title: Březen
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_008.html
+        title: Duben
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_009.html
+        title: Květen
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_010.html
+        title: Červen
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_011.html
+        title: Červenec
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_012.html
+        title: Srpen
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_013.html
+        title: Září
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_014.html
+        title: Říjen
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_015.html
+        title: Listopad
+        hiddenTitle: false
+      - link: verunka_a_kokosovy_dedek_016.html
+        title: Prosinec
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
