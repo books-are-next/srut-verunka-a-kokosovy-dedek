@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Verunka a kokosový dědek
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Pavel Šrut
   publisher: Městská knihovna v Praze
   modified: '2021-03-24T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
+  contentType: prose
 readingOrder:
   - promo.html
   - verunka_a_kokosovy_dedek_001.html
@@ -32,6 +36,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

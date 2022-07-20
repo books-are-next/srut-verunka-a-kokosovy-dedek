@@ -1,0 +1,2977 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Verunka a kokosový dědek",
+  "author": "Pavel Šrut",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "srut-verunka-a-kokosovy-dedek-94a3948",
+  "revision": "94a3948",
+  "readingOrder": [
+    "promo.html",
+    "verunka_a_kokosovy_dedek_001.html",
+    "verunka_a_kokosovy_dedek_002.html",
+    "verunka_a_kokosovy_dedek_003.html",
+    "verunka_a_kokosovy_dedek_004.html",
+    "verunka_a_kokosovy_dedek_005.html",
+    "verunka_a_kokosovy_dedek_006.html",
+    "verunka_a_kokosovy_dedek_007.html",
+    "verunka_a_kokosovy_dedek_008.html",
+    "verunka_a_kokosovy_dedek_009.html",
+    "verunka_a_kokosovy_dedek_010.html",
+    "verunka_a_kokosovy_dedek_011.html",
+    "verunka_a_kokosovy_dedek_012.html",
+    "verunka_a_kokosovy_dedek_013.html",
+    "verunka_a_kokosovy_dedek_014.html",
+    "verunka_a_kokosovy_dedek_015.html",
+    "verunka_a_kokosovy_dedek_016.html",
+    "verunka_a_kokosovy_dedek_017.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jul 20 2022 15:29:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658330979618
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "verunka_a_kokosovy_dedek_001.html",
+      "toc": []
+    },
+    {
+      "title": "Verunka a kokosový dědek",
+      "file": "verunka_a_kokosovy_dedek_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "verunka_a_kokosovy_dedek_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Verunka a kokosový dědek",
+      "file": "verunka_a_kokosovy_dedek_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "verunka_a_kokosovy_dedek_001.html",
+      "next": "verunka_a_kokosovy_dedek_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Verunka a kokosový dědek",
+      "file": "verunka_a_kokosovy_dedek_003.html",
+      "words": 6,
+      "chars": 33,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 3,
+      "prev": "verunka_a_kokosovy_dedek_002.html",
+      "next": "verunka_a_kokosovy_dedek_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Verunka a kokosový dědek",
+      "file": "verunka_a_kokosovy_dedek_004.html",
+      "words": 94,
+      "chars": 608,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "verunka_a_kokosovy_dedek_003.html",
+      "next": "verunka_a_kokosovy_dedek_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Leden",
+      "file": "verunka_a_kokosovy_dedek_005.html",
+      "words": 2400,
+      "chars": 13898,
+      "ideas": 219,
+      "role": "chapter",
+      "order": 5,
+      "prev": "verunka_a_kokosovy_dedek_004.html",
+      "next": "verunka_a_kokosovy_dedek_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Leden",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "31.",
+              "id": "31",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Únor",
+      "file": "verunka_a_kokosovy_dedek_006.html",
+      "words": 2032,
+      "chars": 12207,
+      "ideas": 195,
+      "role": "chapter",
+      "order": 6,
+      "prev": "verunka_a_kokosovy_dedek_005.html",
+      "next": "verunka_a_kokosovy_dedek_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Únor",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Březen",
+      "file": "verunka_a_kokosovy_dedek_007.html",
+      "words": 2131,
+      "chars": 12458,
+      "ideas": 191,
+      "role": "chapter",
+      "order": 7,
+      "prev": "verunka_a_kokosovy_dedek_006.html",
+      "next": "verunka_a_kokosovy_dedek_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Březen",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "31.",
+              "id": "31",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Duben",
+      "file": "verunka_a_kokosovy_dedek_008.html",
+      "words": 1918,
+      "chars": 11141,
+      "ideas": 154,
+      "role": "chapter",
+      "order": 8,
+      "prev": "verunka_a_kokosovy_dedek_007.html",
+      "next": "verunka_a_kokosovy_dedek_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duben",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Květen",
+      "file": "verunka_a_kokosovy_dedek_009.html",
+      "words": 2269,
+      "chars": 13005,
+      "ideas": 157,
+      "role": "chapter",
+      "order": 9,
+      "prev": "verunka_a_kokosovy_dedek_008.html",
+      "next": "verunka_a_kokosovy_dedek_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Květen",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "31.",
+              "id": "31",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Červen",
+      "file": "verunka_a_kokosovy_dedek_010.html",
+      "words": 2005,
+      "chars": 11656,
+      "ideas": 160,
+      "role": "chapter",
+      "order": 10,
+      "prev": "verunka_a_kokosovy_dedek_009.html",
+      "next": "verunka_a_kokosovy_dedek_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červen",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Červenec",
+      "file": "verunka_a_kokosovy_dedek_011.html",
+      "words": 2177,
+      "chars": 12777,
+      "ideas": 185,
+      "role": "chapter",
+      "order": 11,
+      "prev": "verunka_a_kokosovy_dedek_010.html",
+      "next": "verunka_a_kokosovy_dedek_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "31.",
+              "id": "31",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Srpen",
+      "file": "verunka_a_kokosovy_dedek_012.html",
+      "words": 2279,
+      "chars": 13095,
+      "ideas": 186,
+      "role": "chapter",
+      "order": 12,
+      "prev": "verunka_a_kokosovy_dedek_011.html",
+      "next": "verunka_a_kokosovy_dedek_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Srpen",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "31.",
+              "id": "31",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Září",
+      "file": "verunka_a_kokosovy_dedek_013.html",
+      "words": 2219,
+      "chars": 12857,
+      "ideas": 223,
+      "role": "chapter",
+      "order": 13,
+      "prev": "verunka_a_kokosovy_dedek_012.html",
+      "next": "verunka_a_kokosovy_dedek_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Září",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Říjen",
+      "file": "verunka_a_kokosovy_dedek_014.html",
+      "words": 2146,
+      "chars": 12557,
+      "ideas": 210,
+      "role": "chapter",
+      "order": 14,
+      "prev": "verunka_a_kokosovy_dedek_013.html",
+      "next": "verunka_a_kokosovy_dedek_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Říjen",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "31.",
+              "id": "31",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Listopad",
+      "file": "verunka_a_kokosovy_dedek_015.html",
+      "words": 2504,
+      "chars": 14065,
+      "ideas": 179,
+      "role": "chapter",
+      "order": 15,
+      "prev": "verunka_a_kokosovy_dedek_014.html",
+      "next": "verunka_a_kokosovy_dedek_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Listopad",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prosinec",
+      "file": "verunka_a_kokosovy_dedek_016.html",
+      "words": 2720,
+      "chars": 15574,
+      "ideas": 216,
+      "role": "chapter",
+      "order": 16,
+      "prev": "verunka_a_kokosovy_dedek_015.html",
+      "next": "verunka_a_kokosovy_dedek_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prosinec",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3.",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4.",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5.",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6.",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7.",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8.",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9.",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10.",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11.",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12.",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13.",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14.",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15.",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16.",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17.",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18.",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19.",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20.",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "21.",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "22.",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "23.",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "24.",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "25.",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "26.",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "27.",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "28.",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "29.",
+              "id": "29",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "30.",
+              "id": "30",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "31.",
+              "id": "31",
+              "children": []
+            },
+            {
+              "index": 32,
+              "level": 2,
+              "name": "1.",
+              "id": "1-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verunka a kokosový dědek",
+      "file": "verunka_a_kokosovy_dedek_017.html",
+      "words": 45,
+      "chars": 305,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 17,
+      "prev": "verunka_a_kokosovy_dedek_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 26955,
+      "chars": 156291,
+      "ideas": 2303
+    },
+    "chapters": {
+      "words": 26947,
+      "chars": 156236,
+      "ideas": 2298
+    }
+  }
+}

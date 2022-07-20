@@ -46,7 +46,7 @@ Písmeno G je důležité
 
 Nad tou odpovědí kokosový dědek zakroutil hlavou, ale pak Ve­ronice ukázal, jak se píše veliké tiskací G. Verunka mu poděkovala a napsala Lukáškovi vzkaz.
 
-_AHOJ! GDY K NÁM PRÍDEŠ?_
+AHOJ! GDY K NÁM PRÍDEŠ?
 
 A poslala ho provázkovou poštou.
 
@@ -55,10 +55,10 @@ G není důležité
 
 Lukáš Veronice odepsal stejnými tiskacími písmeny a dopis poslal také provázkovou poštou:
 
-_PŘIJDU HNED.  
+PŘIJDU HNED.  
 ALE NE SÁM!!!  
 A GDY SE PÍŠE KDY!!!  
-GDY!!! TO JE TEDA GÓL!_
+GDY!!! TO JE TEDA GÓL!
 
 „Lukášek se zase vytahuje,“ ušklíbla se Verunka, když si vzkaz přeslabikovala.
 
@@ -290,9 +290,9 @@ Vzorný Lukáš
 
 Doma ještě nikdo nebyl, ale Lukáš se vzorně pustil do domácího úkolu z počtů. Všechno vypočítal a ještě si dal dobrovolný diktát z českého jazyka, aby se měl čím pochlubit, než si mamince řekne o ten dalekohled. Byla to vlastně básnička:
 
-_Viktor Vydra, známý Dr.  
+Viktor Vydra, známý Dr.  
 ztratil v lese triedr.  
-Pes ho našel, dělal vrrr…_
+Pes ho našel, dělal vrrr…
 
 Tady se Lukáš zarazil, protože mu chyběl rým.
 
