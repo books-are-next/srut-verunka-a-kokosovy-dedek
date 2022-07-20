@@ -85,8 +85,8 @@ Celá škola si o tom povídala a odpoledne u Hubertů třikrát zazvonil tel
 
 Lukáš připevnil na provázek psaní. Stálo v něm:
 
-_„_TA VAŠE ÚČA JE SENZAČNÍ A FANČA TAKY!  
-BUDE MÍT MORČATA!_“_
+„_TA VAŠE ÚČA JE SENZAČNÍ A FANČA TAKY!  
+BUDE MÍT MORČATA!_“
 
 ## 7.  
 Aki píše dědečkovi

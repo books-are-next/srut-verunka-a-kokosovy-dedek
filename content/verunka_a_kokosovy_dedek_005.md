@@ -51,7 +51,7 @@ Zazvonil dvakrát – a byl to pošťák!
 
 Vtom Verunka přišla z pokoje a na tu doručenku se podepsala.
 
-_VƎRUNKA_
+VƎRUNKA
 
 Všichni se divili – a to vůbec netušili, kolik divných věcí je ještě čeká.
 
@@ -308,7 +308,7 @@ A schoval se.
 
 Stačil mžik – a byl pryč. Verunka se podívala
 
-_pod stůl,  
+pod stůl,  
 do příborníku,  
 pod gauč,  
 do sporáku,  
@@ -316,7 +316,7 @@ pod křeslo,
 do botníku,  
 pod koberec,  
 do mikrovlnky  
-i do myčky na nádobí…_
+i do myčky na nádobí…
 
 Ale kokosový dědek nikde nebyl.
 
