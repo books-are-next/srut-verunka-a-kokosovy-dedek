@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-verunka-a-kokosovy-dedek-41a190e",
-  "revision": "41a190e",
+  "identifier": "srut-verunka-a-kokosovy-dedek-02a95ba",
+  "revision": "02a95ba",
   "readingOrder": [
     "promo.html",
     "verunka_a_kokosovy_dedek_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:11:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151913591
+    "date": "Mon Oct 10 2022 16:03:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417806507
   },
   "documents": [
     {
@@ -2861,7 +2861,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 870,
+      "chars": 871,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -2881,7 +2881,7 @@
   "totals": {
     "all": {
       "words": 26942,
-      "chars": 156205,
+      "chars": 156206,
       "ideas": 2292
     },
     "chapters": {
