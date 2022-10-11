@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-## 1.  
+1.  
 Všichni kluci jsou stejní
 
 Aki Verunce často vyprávěl o svém dědečkovi na Haiti.
@@ -20,7 +20,7 @@ Aki Verunce často vyprávěl o svém dědečkovi na Haiti.
 
 „Ach jo,“ povzdechla si Verunka. „Všichni kluci jsou stejní.“
 
-## 2.  
+2.  
 Trochu smutnění
 
 Ale večer se dědkovi svěřila:
@@ -43,7 +43,7 @@ Ale večer se dědkovi svěřila:
 
 „Stejně bych chtěla mít nějakého opravdového dědečka jako ostatní děti,“ řekla Verunka a maličko zesmutněla.
 
-## 3.  
+3.  
 Trochu těšení
 
 „Tak, děti,“ řekla druhý den paní učitelka, „dneska se už učit nebudeme. Budeme si povídat o zítřejším výletě.“
@@ -52,7 +52,7 @@ Trochu těšení
 
 „Bude to celodenní výlet školním autobusem a navštívíme krásný hrad. A já budu mít nad vámi dozor.“
 
-## 4.  
+4.  
 Pozor na Sochora
 
 Na ten zítřejší výlet se těšili všichni prvňáci, druháci i třeťáci.
@@ -69,7 +69,7 @@ Za Verunkou přišel navečer Lukáš a řekl tajemně:
 
 „Ne, je to propadlík. Měl by chodit do čtvrtý, ale je v naší třídě. Hroznej rváč – a na prvňáky má spadeno. Tak pozor na Sochora!“
 
-## 5.  
+5.  
 Dědek na výlet nesmí
 
 Když se pak Verunka chystala do postýlky, řekl dědek ledabyle:
@@ -84,19 +84,19 @@ Když se pak Verunka chystala do postýlky, řekl dědek ledabyle:
 
 „Poslouchal,“ přiznal dědek, „ale jen proto, abych měl nad tebou dozor.“
 
-## 6.  
+6.  
 Ráno u Hubertů
 
 Školní autobus odjížděl už v sedm hodin, Verunka se ani nestačila nasnídat. Maminka jí připravila batoh se svačinou a náhradním oblečením, kdyby pršelo. Jak byla rozespalá, vůbec si nevšimla, že na dně batohu už něco je.
 
 Verunka se rychle rozloučila a seběhla do přízemí za Lukáškem, protože nechtěla, aby ji maminka vyprovázela jako malou.
 
-## 7.  
+7.  
 Ráno u Urbanů
 
 Ráno u Urbanů vypadalo podobně. Lukášek ale ošidil mytí i čištění zubů, a tak se stačil nasnídat. Do připraveného batohu ještě nacpal míč a svačinu. Když tam mičudu strkal, uslyšel nějaký podivný zvuk, ale vůbec si toho nevšímal. Počkal u domovních dveří na Verunku a potom společně běželi ke škole, kde už čekal jejich autobus.
 
-## 8.  
+8.  
 V autobuse je Sochor
 
 V autobuse se Aki posadil vedle Verunky – hned za řidiče. Lukáš a ostatní třeťáci seděli docela vzadu. Jen Sochor si ustlal nahoře v prostoru pro zavazadla.
@@ -107,7 +107,7 @@ V autobuse se Aki posadil vedle Verunky – hned za řidiče. Lukáš a ostat
 
 „Zatím ještě ne, ale určitě se už na něco chystáš,“ řekla paní učitelka, protože Sochor se vždycky na něco chystal.
 
-## 9.  
+9.  
 Auvajs!
 
 Sotva autobus vyjel za Prahu, dostaly děti hlad.
@@ -128,7 +128,7 @@ Sotva autobus vyjel za Prahu, dostaly děti hlad.
 
 A hned nato zařval: **„**_Auvajs!_**“** a začal poskakovat po autobuse.
 
-## 10.  
+10.  
 V batohu je Fanča!
 
 A mohla za to Fanča! Schovala se ráno na dně batohu a hned se pustila do jablka, pak ohryzala chleba se sýrem, a když teď Lukášek strčil do batohu ruku, zakousla se mu do prstu.
@@ -143,7 +143,7 @@ A mohla za to Fanča! Schovala se ráno na dně batohu a hned se pustila do ja
 
 Tak byla hodná.
 
-## 11.  
+11.  
 Tajná Fanča
 
 Když autobus zastavil před hradem, vzal si Lukášek Verunku stranou.
@@ -162,7 +162,7 @@ Fanča se nebránila. Docela spokojeně se tam stulila do klubíčka.
 
 „Tak za prvé: Neříkej mi dědku! A za druhé: Tohle je můj batoh a jsem v něm doma,“ řekl kokosový dědek.
 
-## 12.  
+12.  
 Nečekané setkání
 
 Pak si děti nechaly věci v autobuse a paní učitelka je nejdřív vzala na krátkou procházku po okolí. Konečně si mohli dědek s Fančou v klidu promluvit.
@@ -175,7 +175,7 @@ Pak si děti nechaly věci v autobuse a paní učitelka je nejdřív vzala na 
 
 „Tak pojď, než nás tu najdou. Porozhlédneme se po hradě.“
 
-## 13.  
+13.  
 Fanča v posteli
 
 Řidič nechal dveře autobusu otevřené a pospával s hlavou opřenou o volant. Dědek s Fančou kolem něho proběhli a zmizeli ve vratech hradu.
@@ -184,7 +184,7 @@ Fanča v posteli
 
 Rozběhla se po klouzavých parketách do hradní ložnice a dědek klouzal za ní. Fanča se zastavila před velkou postelí s nebesy. A než ji dědek mohl okřiknout, zavrtala se do peřin.
 
-## 14.  
+14.  
 Turisté na úprku
 
 Za chvilenku uslyšeli nějaké hlasy.
@@ -197,7 +197,7 @@ Návštěvníci se nahrnuli k posteli. Dědek rychle vylezl na dubovou skříň
 
 A do houfu turistů jako když střelí. Všichni se dali na úprk.
 
-## 15.  
+15.  
 Dědek zachraňuje Fanču
 
 Jen starý pan průvodce tu zůstal. A byl zlostí bez sebe. Zvedl hůl nad hlavu a chtěl Fanču praštit.
@@ -206,7 +206,7 @@ Jen starý pan průvodce tu zůstal. A byl zlostí bez sebe. Zvedl hůl nad hla
 
 Průvodce se otočil. Nevěřícně koukal na kokos. Na kokos, který poskakoval na skříni, ale vůbec nevypadal jako kokos, nýbrž jako nějaké zapomenuté hradní strašidlo.
 
-## 16.  
+16.  
 Strašidelné sklepení
 
 „Utíkej!“ houkl dědek na Fanču.
@@ -217,7 +217,7 @@ Morče se dalo na útěk a dědek za ním. Přeběhli do vedlejší komnaty, pa
 
 „Já se bojím,“ fňukala Fanča, ale poslechla.
 
-## 17.  
+17.  
 Sochor má rád surovění
 
 Děti byly tou dobou ještě na procházce. Lukáš vzal s sebou míč.
@@ -230,14 +230,14 @@ Děti byly tou dobou ještě na procházce. Lukáš vzal s sebou míč.
 
 „Mě baví jenom surovění,“ řekl Sochor. „Fotbal bez surovění je nuda.“
 
-## 18.  
+18.  
 Sochor je vyloučen
 
 Aki hrál s Lukáškem v jednom mužstvu. Šlo jim to skvěle. Báječně si přihrávali a dávali góly. Sochor ani nevěděl, s kým že to, a proti komu hraje. Prostě se vždycky rozběhl proti hráči, který měl zrovna míč, a snažil se ho nakopnout. Když někomu dal stoličku, měl větší radost, než kdyby dal gól. Tak ho paní učitelka vyloučila a byl pokoj. Pak se šlo na oběd.
 
 „A po obědě nás čeká prohlídka hradu,“ řekla paní učitelka a všichni volali: „Hurá!“
 
-## 19.  
+19.  
 Sochor je problémový
 
 Na nádvoří už je čekala hezká slečna. Musela vzít službu za starého pana průvodce. Ten se ještě nevzpamatoval z toho strašidla, co uvnitř spatřil. Vyprávěl o tom kdekomu, ale nikdo mu nevěřil.
@@ -256,7 +256,7 @@ Na nádvoří už je čekala hezká slečna. Musela vzít službu za starého pa
 
 „Tak pojďte, děti, ale neklouzejte se a na nic nesahejte.“
 
-## 20.  
+20.  
 Kde je Sochor?
 
 Zavedla je do loveckého sálu, pak do černé kuchyně, potom do ložnice a nakonec do hradní knihovny. Všichni si všechno prohlíželi a skoro nikdo na nic nesahal. Jen Aki to nevydržel a klouzal se po parketách.
@@ -265,7 +265,7 @@ Zavedla je do loveckého sálu, pak do černé kuchyně, potom do ložnice a na
 
 Ale Sochor zmizel.
 
-## 21.  
+21.  
 Sochor se ztratil
 
 „Děti, kdo z vás viděl naposled Antonína?“
@@ -282,7 +282,7 @@ Paní učitelka najednou dostala o toho uličníka takový strach, že neřekla
 
 „Čeká nás rytířský sál.“
 
-## 22.  
+22.  
 Martínek by chtěl mít brnění
 
 Děti vešly do rytířského sálu. To bylo něco. Všude kolem samá brnění.
@@ -297,7 +297,7 @@ Děti vešly do rytířského sálu. To bylo něco. Všude kolem samá brnění.
 
 A hned nato…
 
-## 23.  
+23.  
 Kopající brnění
 
 „AUVAJS!“ vykřikl Martínek a poskakoval po jedné noze. „Ono mě to koplo!“
@@ -310,7 +310,7 @@ Děti se seběhly a Martínek Pecha ukazoval na dětské brnění. „Tohle!“
 
 „Pechu koplo brnění!“ Ale smích ho hned přešel. Protože najednou to brnění udělalo několik těžkých kroků. Pak se s třeskotem sesypalo a vyběhl z něj Sochor.
 
-## 24.  
+24.  
 Musíme Sochora dopadnout
 
 Ten rámus přivolal paní učitelku.
@@ -323,19 +323,19 @@ Ten rámus přivolal paní učitelku.
 
 „Musíme ho dopadnout!“ volaly děti.
 
-## 25.  
+25.  
 Sochor je v mučírně
 
 Sochor utíkal. Pádil dolů po schodech a zastavil se až v nějakém temném sklepení. Na stěnách byly háky, ostnaté žebříky, ze stropu visela lana a na podlaze stály kádě s ledovou vodou, skřipce a jiná mučidla. Sochor přece chtěl vidět mučírnu. Ale teď, když v ní byl, dostal najednou strach. A to ještě nevěděl, co ho čeká…
 
-## 26.  
+26.  
 Takové malé strašení
 
 A čekal ho tu kokosový dědek s Fančou! Byli schovaní za popravčím špalkem. Dědek vystrčil hlavu z úkrytu a zašeptal: „Fančo, to je Sochor! Každý se ho bojí, tak ať se teď chvíli bojí on. Trochu ho vyděsíme, co říkáš?“
 
 „Prima,“ řekla Fanča. „Takové malé strašení mu jenom prospěje.“
 
-## 27.  
+27.  
 Dědek moc strašit neumí
 
 Hned nato dědek vylezl na špalek a huhňal strašícím hlasem: „Hledám, hledám Sochora a jsem strašná potvora!“
@@ -348,7 +348,7 @@ A vykulila oči, vycenila zuby a mocně se nafoukla. Najednou byla pětkrát v
 
 Teď už Sochor zaječel.
 
-## 28.  
+28.  
 Strašidla hodným dětem nic nedělají
 
 Sochor zaječel tak, že vylekal i Fanču. A dědka taky. Rychle se zase schovali – a do sklepení vtrhla slečna průvodkyně.
@@ -361,7 +361,7 @@ Ale když viděla, jak se Sochor třese, ukazuje někam do kouta a mumlá: „S
 
 Ale Sochor nebyl k utišení, protože ta strašidla viděl na vlastní oči a protože dobře věděl, že on žádné hodné dítě není.
 
-## 29.  
+29.  
 Dědek a Fanča se loučí
 
 Slečna průvodkyně vzala Sochora za ruku a vyvedla ho z mučírny k ostatním dětem. Kokosový dědek počkal, dokud nezmizeli v temné chodbě, a pak řekl:
@@ -374,7 +374,7 @@ A tak utíkali, co jim síly stačily, rovnou ke školnímu autobusu. Řidič p
 
 „Pěkně jsme si zastrašili,“ řekl dědek a ustlal si na dně Verunčina batohu.
 
-## 30.  
+30.  
 Dvojka z mravů
 
 Se Sochorem se něco stalo. V autobuse cestou domů seděl úplně vzorně. O tom, co spatřil v mučírně, nechtěl ale mluvit. Jen se pořád omlouval. Martínkovi, že ho v tom brnění nakopl. Lukáškovi, Akimu, Novákovi, Pošustovi a Karáskovi za to, že jim dal při fotbale stoličku.
@@ -383,7 +383,7 @@ Se Sochorem se něco stalo. V autobuse cestou domů seděl úplně vzorně. O 
 
 „Já vím,“ řekl Sochor. „Víte, paní učitelko, já ji mám každý rok. Ani nevím proč.“
 
-## 31.  
+31.  
 Návrat domů
 
 Děti se z výletu vrátily až pozdě večer. Před školou už netrpělivě čekali rodiče. Byla tam i babička Agáta. Když došli domů, Verunka se hned hnala do svého pokojíku.
