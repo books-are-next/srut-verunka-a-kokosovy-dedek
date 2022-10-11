@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-1.  
+## 1.  
 Slečna Rozmazlená
 
 Veronika už dva dny neviděla Lukáška a začalo se jí stýskat.
@@ -24,12 +24,12 @@ A své slovo dodržel, protože s Verunkou už ani slovo nepromluvil.
 
 Skoro celou hodinu!
 
-2.  
+## 2.  
 Veronika zkouší psát písmenka
 
 A tak si Verunka vzala linkovaný sešit a z penálu pěkně ořezanou tužku. Nahlas si říkala různá písmenka a zkoušela je psát. A moc ji to bavilo a docela jí to šlo.
 
-3.  
+## 3.  
 Písmeno G je důležité
 
 „Vidíš, jak jsi šikovná! Už umíš skoro všechna písmena!“ radoval se dědek.
@@ -50,7 +50,7 @@ AHOJ! GDY K NÁM PRÍDEŠ?
 
 A poslala ho provázkovou poštou.
 
-4.  
+## 4.  
 G není důležité
 
 Lukáš Veronice odepsal stejnými tiskacími písmeny a dopis poslal také provázkovou poštou:
@@ -68,7 +68,7 @@ GDY!!! TO JE TEDA GÓL!
 
 „Není!“ řekl kokosový dědek rozhodně. „Jedině ve slově GULÁŠ!“
 
-5.  
+## 5.  
 Lukáš má svoje tajemství
 
 Příští den Lukáš vrazil do pokojíku k Veronice s proutěným košíkem přikrytým nějakým hadrem.
@@ -79,14 +79,14 @@ Příští den Lukáš vrazil do pokojíku k Veronice s proutěným košíkem 
 
 „Pejsek to není,“ zabručel Lukáš, „ale budeš koukat. Pozor – teď!“
 
-6.  
+## 6.  
 Tajemství proutěného košíku
 
 Lukáš zašermoval nad košíkem rukama jako nějaký kouzelník. Pak nadzvedl cíp hadru – a z košíku vyrazilo ohromné tlusté morče. Rozhlédlo se vpravo vlevo a pak se s děsným funěním drápalo na postýlku. A rovnou pod peřinu!
 
 „Jedeš, potvoro!“ zaječel kokosový dědek. Morče kviklo a ucouv­lo, dědek zase zmizel pod peřinou. Ale mlel se tam a vztekle si něco brumlal.
 
-7.  
+## 7.  
 Přísná babička Agáta
 
 „Já to viděl! Co to tam máš?“ hrnul se Lukáš zvědavě k postýlce. Naštěstí právě v tu chvíli vešla do pokojíku babička Agáta.
@@ -101,19 +101,19 @@ Lukáš velmi neochotně poslechl.
 
 „A teď pojďte oba do kuchyně, uvařila jsem kakao a mám tu pro vás koláč,“ řekla babička Agáta a vyvedla děti z místnosti.
 
-8.  
+## 8.  
 A všem bylo hezky
 
 Některá morčata jsou možná roztomilá, ale kokosovému dědkovi to nevysvětlíte. V tom se podobal babičce Agátě. Proutěný košík s morčetem k ní do kuchyně nesměl. Musel zůstat v předsíni. Ale meruňkový koláč byl tak dobrý, že to Lukáš babičce Agátě odpustil. Dokonce ji ujišťoval, že tak senzační meruňkový koláč ještě v životě nejedl. A všem bylo zase hezky.
 
-9.  
+## 9.  
 Rozčilená babička Agáta
 
 Ale ne dlouho. Najednou se z Verunčina pokojíku ozval rámus a ječení. Lukáš přestal jíst, Verunka se pobryndala kakaem a babička Agáta popadla koště. S koštětem v ruce vrazila do pokojíku. No tohle!
 
 V postýlce leželo morče a vypadalo jako vlk z pohádky O Červené karkulce. A kokosový dědek seděl na skříni a byl tak rozrušený, že se ani pod klobouk neschoval.
 
-10.  
+## 10.  
 Doprkvančic
 
 Babička Agáta rázně morče popadla, vrátila ho do košíku – a košík i s Lukášem strkala za dveře.
@@ -126,7 +126,7 @@ A hned nato zařval: „Doprkvančic!“ Protože morče z košíku zase vybě
 
 Ale tentokrát se hnalo od Hubertů pryč, na chodbu a po schodech dolů, domů k Urbanům…
 
-11.  
+## 11.  
 Pohádkový dědek
 
 „Tak mi, prosím tě, pověz, co se tu vlastně stalo?“ dožadovala se Veronika, když byli konečně s dědkem sami.
@@ -135,12 +135,12 @@ Pohádkový dědek
 
 „… a pan král ti dal půl království a princeznu Veroniku za manželku, viď?“ rozesmála se Verunka a dodala: „Božínku, ty jsi můj pohádkový dědek!“
 
-12.  
+## 12.  
 Dlouhé psaní
 
 Druhý den pozdě odpoledne zazvonil u Hubertů třikrát telefon a pak se odmlčel. To bylo znamení pro Veroniku, že má otevřít okno a převzít si Lukáškovu „poštu“. Veronika provázek s ruličkou dopisu vytáhla nahoru, ale rozhodla se, že si to psaní přečte až večer. Až pod peřinou. Aby to bylo úplně tajné a napínavé.
 
-13.  
+## 13.  
 Svítící dědek
 
 Večer se Verunka přikryla až po bradu a zašeptala zaklínadlo: „_Šalalalali!_“
@@ -149,19 +149,19 @@ A kokosový dědek se pod peřinou rozsvítil! Veronika si polohlasně slabikov
 
 „Ale já tě nevyměním ani za nic!“ zvolala Veronika. Kokosový dědek zářil radostí a přestal, teprve když ho Verunka požádala, aby se zhasl. Pak si dali dobrou noc a hned usnuli.
 
-14.  
+## 14.  
 Ošklivý sen
 
 Tu noc měl dědek sen. Byl zase cestovatelem. Stál na ostrůvku uprostřed moře a to moře se vzdouvalo jako peřina. Najednou se z hlubiny vynořilo něco, co vypadalo jako tygr. A bylo to tak strašné, že se ten velký cestovatel strachy scvrkl a vypadal jako kokos.
 
-15.  
+## 15.  
 Docela pěkný konec ošklivého snu
 
 Ale zmenšil se i ten hrozitánský tygr. Z moře se v tom snu stala peřina a z tygra vypasené morče.
 
 „Brrr, to byl ošklivý sen,“ řekl si kokosový dědek. „Ale skončil docela pěkně. _Když se to tak vezme, morče je mi mnohem milejší než tygr!_“
 
-16.  
+## 16.  
 Jak Verunka lítala
 
 Kokosový dědek o svém snu Verunce nic neřekl. Bál se, že by se mu vysmála. Ale Veronika pořád naléhala:
@@ -176,7 +176,7 @@ Kokosový dědek o svém snu Verunce nic neřekl. Bál se, že by se mu vysmál
 
 „Takhle!“ Verunka poskočila na postýlce, zamávala rukama – a spadla na zem.
 
-17.  
+## 17.  
 A dědek byl zase vítěz
 
 „Co se směješ?“ zlobila se Verunka.
@@ -195,7 +195,7 @@ A dědek byl zase vítěz
 
 „A co peřina? Ta je peřím naditá, ale vůbec nelítá!“ řekl dědek a byl zase vítěz.
 
-18.  
+## 18.  
 Verunka vaří oběd
 
 Příští den si Verunka s dědkem hráli na vaření.
@@ -212,7 +212,7 @@ Příští den si Verunka s dědkem hráli na vaření.
 
 „Ale smažený sýr a hranolky tam jedí taky,“ uklidnil ji kokosový dědek.
 
-19.  
+## 19.  
 Při obědě se nečte
 
 Veronika položila před dědka talíř jako plný hranolků a smaženého sýra a dědek si rozevřel noviny.
@@ -225,7 +225,7 @@ Veronika položila před dědka talíř jako plný hranolků a smaženého sýr
 
 „To já schválně,“ vysvětlil dědek, „_někdy je moc prospěšné podívat se na věci obráceně_.“
 
-20.  
+## 20.  
 Dědek vysvětluje
 
 „Tomu nerozumím,“ zamračila se Verunka. „Že ty mě schválně pleteš?“
@@ -244,7 +244,7 @@ Dědek vysvětluje
 
 „Někdy ano. Schválně si to vyzkoušej, až zase přijdou na návštěvu falešné tetičky,“ řekl kokosový dědek.
 
-21.  
+## 21.  
 První jarní den
 
 V kalendáři byl první jarní den. Ale za okny chumelilo.
@@ -257,19 +257,19 @@ V kalendáři byl první jarní den. Ale za okny chumelilo.
 
 „Tetičky! A ty víš, jak jsem z nich nervózní!“ povzdechla si maminka.
 
-22.  
+## 22.  
 Anděl, nebo motýl?
 
 „Tak pošleme Verunku ven, aby se vyřádila a odpoledne tolik nezlobila,“ navrhl tatínek. To se Verunce líbilo. Mohla se vyřádit, a dokonce to dostala od tatínka příkazem. Koulovali se s Lukášem a naznak s rozpaženýma rukama padali do závěje. A vůbec se nehádali. I když – trochu se hádali. Protože Lukáš otisku ve sněhu, co po něm zůstal, říkal „motýl“, zatímco Veronika tvrdila, že je to „anděl“. Ale domů se vrátili svorně a úplně vyřádění.
 
-23.  
+## 23.  
 Tááákhle malinké tetičky
 
 Falešné tetičky už seděly v obývacím pokoji, hubovaly na počasí a tak, bryndaly kafíčko a drobily zákusky a napomínaly Verunku, aby se chovala způsobně. Ale tentokrát to Veronice vůbec nevadilo, protože si směla vypůjčit tatínkův dalekohled.
 
 A když se na falešné tetičky dívala obráceným dalekohledem, byly docela v dálce a tááákhle malinké…
 
-24.  
+## 24.  
 Kdy má Lukáš narozeniny
 
 Veronika o tom druhý den Lukášovi vyprávěla. Oba se hrozně smáli a Lukášek řekl, že si takový dalekohled bude přát k narozeninám.
@@ -278,14 +278,14 @@ Veronika o tom druhý den Lukášovi vyprávěla. Oba se hrozně smáli a Luk�
 
 „Jasně,“ řekl Lukáš, „já je mám každý rok. Bohužel vždycky až v listopadu. Ale o ten dalekohled si řeknu hned.“
 
-25.  
+## 25.  
 Nevychovaný papoušek
 
 Když přišel Lukáš domů, přivítalo ho nejdřív morče a pak volání: „Prevít! Prevít!“
 
 To křičel papoušek. Urbanovi měli nevychovaného papouška a říkali mu Prevít. Není to zrovna pěkné jméno, ale „prevít“ bylo jediné slovo, které uměl říkat. Kde se to naučil, to nikdo nevěděl. Zato morče dostalo hezké jméno Fanča, i když se také moc hezky nechovalo.
 
-26.  
+## 26.  
 Vzorný Lukáš
 
 Doma ještě nikdo nebyl, ale Lukáš se vzorně pustil do domácího úkolu z počtů. Všechno vypočítal a ještě si dal dobrovolný diktát z českého jazyka, aby se měl čím pochlubit, než si mamince řekne o ten dalekohled. Byla to vlastně básnička:
@@ -298,7 +298,7 @@ Tady se Lukáš zarazil, protože mu chyběl rým.
 
 A najednou: CRRRR! – ozval se zvonek u dveří a vešla maminka.
 
-27.  
+## 27.  
 Lukášovy nápady
 
 „Ty budeš určitě něco chtít,“ poznala hned paní Urbanová.
@@ -315,26 +315,26 @@ Lukášovy nápady
 
 „To já mám pořád!“ řekl Lukášek pyšně.
 
-28.  
+## 28.  
 Tajemná zásuvka
 
 Maminka šla do svého pokoje a otevřela zásuvku. Bylo v ní plno věcí Většinou takových, které kluky vůbec nezajímají – různé vějíře, škrabošky, závoje, ale také divadelní kukátko.
 
 „Lukášku, tady jsou úplné poklady!“ řekla.
 
-29.  
+## 29.  
 Labutí jezero
 
 Lukáškova maminka byla uvaděčkou v Národním divadle – a půjčovala divákům kukátka. Když si od ní divák za pár korun divadelní kukátko vypůjčil, viděl každé pírko na labuti. Tedy, pokud zrovna v Národním divadle dávali balet Labutí jezero. A právě tohle kukátko Lukáš od maminky dostal. Nebyl to sice opravdický dalekohled, ale Lukáš také teď neměl žádné opravdické narozeniny, tak co.
 
-30.  
+## 30.  
 Proč se pan Hubert usmíval
 
 Sníh zmizel a sluníčko svítilo. Lukáš přišel na návštěvu a tatínek s úsměvem řekl: „Děti, je tak hezky! Pojďme si na dvůr cvrnkat kuličky. To byla moje nejoblíbenější hra, když jsem byl ve vašem věku.“
 
 „Pane Huberte, to je senzační nápad!“ pochvaloval si Lukáš, i když mu cvrnkání kuliček připadalo jako nejhloupější zábava na světě.
 
-31.  
+## 31.  
 Proč se pan Hubert neusmíval
 
 Verunčin tatínek přinesl na dvůr plný pytlík kuliček.
