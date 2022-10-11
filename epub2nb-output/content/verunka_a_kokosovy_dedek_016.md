@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-1.  
+## 1.  
 Akiho dědeček
 
 Verunka pozvala Akiho na návštěvu, ale dělala samé tajnosti. Když chtěl hrát Člověče, nezlob se, řekla: „Teď ne, až potom.“
@@ -24,7 +24,7 @@ A když si chtěl povídat o škole, odbyla ho: „Prosím tě, přece si teď
 
 Aki ničemu nerozuměl. Pak babička Agáta nakoukla do dětského pokoje a řekla, ať jsou hodní, že se za hodinu vrátí a něco dobrého jim upeče. A odešla.
 
-2.  
+## 2.  
 Dobrá a zlá kouzla
 
 „A jaká kouzla tvůj dědeček dělá?“ zeptala se Verunka, když byli sami.
@@ -45,7 +45,7 @@ Aki se zamyslel. „Vzpomínáš si, jak jsem maloval ten ananas, co v ruce dr�
 
 „_Umí tvůj dědeček taky lidi vykouzlit?_“
 
-3.  
+## 3.  
 Něco o tajemství
 
 Aki neodpověděl. Díval se upřeně na dědka. Měl pocit, že poslouchá, co si s Verunkou povídají.
@@ -56,7 +56,7 @@ Aki neodpověděl. Díval se upřeně na dědka. Měl pocit, že poslouchá, co 
 
 „Já ti teď ukážu jedno tajemství babičky Agáty.“
 
-4.  
+## 4.  
 Tajemství babičky Agáty
 
 Veronika otevřela tajnou zásuvku v prádelníku. Pod pestrobarevnými šátky ležela fotografie. Byl na ní mladý muž s tropickou helmou na hlavě. Usmíval se a v ruce držel kokosový ořech.
@@ -67,7 +67,7 @@ Veronika otevřela tajnou zásuvku v prádelníku. Pod pestrobarevnými šátky
 
 „Tak jo,“ řekla Verunka. „Ale pošli ji hned, nebo to babička pozná a bude zle.“
 
-5.  
+## 5.  
 Paní učitelka dává špatný příklad
 
 Padal první sníh a hodná paní učitelka řekla prvňákům:
@@ -78,7 +78,7 @@ Na školním dvoře se koulovali a vyváděli. Nejvíc vyváděl Aki, protože 
 
 Zlobil se jenom pan ředitel. Před celou sborovnou paní učitelce řekl, že je sice mladá, ale to ji neopravňuje k tomu, aby dávala žákům špatný příklad.
 
-6.  
+## 6.  
 Lukášovo psaní
 
 Celá škola si o tom povídala a odpoledne u Hubertů třikrát zazvonil telefon. Bylo to znamení, aby Verunka spustila do přízemí provázkovou poštu.
@@ -88,14 +88,14 @@ Lukáš připevnil na provázek psaní. Stálo v něm:
 „_TA VAŠE ÚČA JE SENZAČNÍ A FANČA TAKY!  
 BUDE MÍT MORČATA!_“
 
-7.  
+## 7.  
 Aki píše dědečkovi
 
 I Aki poslal dopis – dědečkovi na Haiti. Psal mu o své kamarádce Verunce, o její babičce Agátě i o tom pánovi, co se jí ztratil. Přiložil jeho fotografii a také svoji fotku, jak leží ve sněhu.
 
 TO BÍLÝ NENÍ PEŘÍ, ALE SNÍH!!! Stálo pod fotkou. A dopis končil: UŽ SE TĚŠÍM NA VÁNOCE U TEBE A NA KOUPÁNÍ V MOŘI!!! A NA KROKODÝLY! AKI.
 
-8.  
+## 8.  
 Co je to za slušného chlapce?
 
 Do Vánoc bylo ještě daleko, ale výlohy už nabízely plno dárků a stromy ve městě byly ozdobené žárovičkami. Verunka se teď ráda s babičkou Agátou procházela po ulicích. Tma přicházela brzo, ale byla jiná než jindy: taková rozsvícená! Jednou potkali Sochora – a on je pozdravil.
@@ -104,7 +104,7 @@ Do Vánoc bylo ještě daleko, ale výlohy už nabízely plno dárků a stromy 
 
 „To je Sochor. Největší uličník a postrach školy,“ řekla Verunka.
 
-9.  
+## 9.  
 Vzorný Sochor
 
 Se Sochorem se teď vůbec děly divné věci. Lukáš o tom Verunce každý den vyprávěl.
@@ -117,12 +117,12 @@ Se Sochorem se teď vůbec děly divné věci. Lukáš o tom Verunce každý de
 
 A dědek, když to slyšel, vykoukl z batůžku a potutelně se usmíval.
 
-10.  
+## 10.  
 Dědek je nějaký zimomřivý
 
 Dědek rád poslouchal všechny novinky o Sochorovi, ale Verunce, i když ho svrběl jazyk, neřekl, že za tu změnu může on. Nejspíš by se mu smála, že si zase vymýšlí. Dědek byl poslední dobou nějaký zimomřivý. Od toho posledního letu s drakem se už nikam nevypravil. Pořád se držel v posteli a jako by se někam vytrácel…
 
-11.  
+## 11.  
 Dědkovi se stýská po Haiti
 
 Verunka si hned neuvědomila, co se s dědkem děje. Měla teď plno svých starostí a kamarádů a školy a těšení na Vánoce.
@@ -133,7 +133,7 @@ Také se naučila bruslit a chodila s Lukášem a s Akim na zimní stadion. 
 
 Měl bych se tam, holka, asi vrátit. Koneckonců jsem kokos a patřím na palmu!“
 
-12.  
+## 12.  
 Morče není žádná myš
 
 Odpoledne přiběhl Lukáš k Hubertům a hned vrazil do dětského pokoje.
@@ -148,7 +148,7 @@ Odpoledne přiběhl Lukáš k Hubertům a hned vrazil do dětského pokoje.
 
 „Já vím,“ řekla Verunka, „ale babička Agáta to neví.“
 
-13.  
+## 13.  
 Martínek Pecha morčátko chce
 
 Druhý den ve škole Verunka oznámila všem dětem, že Lukáškova Fanča má dvě roztomilá morčátka.
@@ -157,7 +157,7 @@ Druhý den ve škole Verunka oznámila všem dětem, že Lukáškova Fanča má 
 
 „Ale to se nejdřív musíš dovolit doma,“ řekla Verunka rozumně.
 
-14.  
+## 14.  
 Lukášek Sochorovi věří
 
 „Tak já jsem se dovolil a máma s tátou mi to dovolili,“ oznámil Martínek Pecha příští den celé třídě. Verunka to hned o přestávce běžela povědět Lukáškovi.
@@ -174,7 +174,7 @@ A víš proč? Protože chce někoho mít, o někoho se starat. Přesně takhl
 
 „Člověče, já mu věřím! A asi mu to morče dám,“ řekl Lukášek.
 
-15.  
+## 15.  
 Veronika s dědkem navlékají korálky
 
 Odpoledne si babička Agáta povzdechla:
@@ -191,7 +191,7 @@ Odpoledne si babička Agáta povzdechla:
 
 „Ty máš nápady,“ řekla Verunka, ale hned se spolu dali do navlékání.
 
-16.  
+## 16.  
 Babička Agáta hledá fotografii
 
 Babička Agáta zůstala celý den ve svém pokoji. Prádelník obrátila vzhůru nohama, prohledala skříně, dívala se i pod koberec a nakonec odtáhla knihovnu. To už maminka nevydržela a vešla dovnitř.
@@ -200,7 +200,7 @@ Babička Agáta zůstala celý den ve svém pokoji. Prádelník obrátila vzhůr
 
 „Ale takovou jednu starou fotografii Asi jsem ji někam založila, toho si nevšímejte,“ řekla babička Agáta a byla moc smutná. Verunka celá zrudla, ale nepřiznala se.
 
-17.  
+## 17.  
 Dědeček přijede
 
 Naštěstí ráno Aki čekal před školou a mával nějakou obálkou. „Hádej, co mám!“ volal. „Dopis od dědy!“
@@ -215,7 +215,7 @@ Naštěstí ráno Aki čekal před školou a mával nějakou obálkou. „Háde
 
 „Ale prý má strach, jestli ho babička Agáta ještě pozná. Po těch letech vypadá už asi jinak než tady…“ řekl Aki a vrátil Verunce fotografii.
 
-18.  
+## 18.  
 Tvůj Tomík
 
 Verunka večer vklouzla do babiččina pokoje a fotografii položila na prádelník. Babička Agáta pekla v kuchyni vánoční cukroví, a tak si ničeho nevšimla. Ale když za chvíli do pokoje vešla, fotky si všimla hned. A když ji obrátila, vykřikla překvapením. No tohle!
@@ -224,7 +224,7 @@ Na rubu té fotografie četla:
 
 „_Agáto Má! Jsem na cestě za Tebou! Tvůj Tomík!_“
 
-19.  
+## 19.  
 Babička Agáta už zase tančí
 
 Pak se z jejího pokoje ozývalo jen Šalalalali a Obladi oblada a výskání a smích. Babička Agáta si oblékla pestrobarevnou sukni z dávných let a bosky tančila po pokoji.
@@ -233,7 +233,7 @@ Verunka popadla kokosového dědka, také s ním poskakovala po pokojíku a vo
 
 Když doskákali, řekl: „Tak dědeček je na cestě domů a mě cesta domů čeká.“ Ale řekl to docela potichu, Verunka to neslyšela.
 
-20.  
+## 20.  
 Takové veselí je vážná věc
 
 Babička Agáta se teď v jednom kuse smála, a když zrovna nepekla vánoční cukroví, seděla v kavárně se svými kamarádkami nebo byla u kadeřnice.
@@ -246,7 +246,7 @@ Tatínek s maminkou si to nedokázali vysvětlit. Dokonce si začali šeptat. T
 
 „To já taky!“ zařval tatínek. „Jenže když je někdo z ničehož nic takhle moc veselý, tak je to vážná věc a mělo by se s tím něco dělat!“
 
-21.  
+## 21.  
 Dávná láska
 
 „Myslíš, že ten dědeček babičky Agáty opravdu přijede?“ vyptávala se Verunka a dědek se zlobil.
@@ -261,7 +261,7 @@ Dávná láska
 
 „Tak nemudruj a navlíkej korálky,“ okřikl ji dědek. „Jinak to do Vánoc nestihneme.“
 
-22.  
+## 22.  
 Veronika je už na dědka velká
 
 Do Štědrého večera už chyběly jen dva dny a dětem začaly vánoční prázdniny. Lukáš se chystal k dědečkovi na venkov. Urbanovi rozhodli, že tentokrát vezmou papouška i morče s sebou.
@@ -274,7 +274,7 @@ Do Štědrého večera už chyběly jen dva dny a dětem začaly vánoční pr�
 
 „Už jsem na to velká,“ řekla Verunka. Řekla to jen tak, ale měla vlastně pravdu.
 
-23.  
+## 23.  
 Na tajemství se věří pořád
 
 Také Aki se chystal za dědečkem.
@@ -291,7 +291,7 @@ Také Aki se chystal za dědečkem.
 
 Veronika mu chtěla odpovědět jako včera Lukáškovi, že už na žádná kouzla nevěří, ale neřekla to, protože by to nebyla pravda. Na kouzla a na tajemství věřila přece pořád.
 
-24.  
+## 24.  
 Neuvěřitelný Štědrý den
 
 Konečně přišel Štědrý den. Když babička Agáta uviděla, že má místo dveří dlouhé šňůry navlečených korálků, úplně užasla.
@@ -316,7 +316,7 @@ Babička Agáta šla otevřít – a stála proti velikánské bedně! Drželi
 
 A pak se oba štěstím rozplakali.
 
-25.  
+## 25.  
 Neuvěřitelný dědeček
 
 Po tomto úplně neuvěřitelném Štědrém dni se Verunka probudila uprostřed hromady dárků, ale nejdřív ze všeho hledala kokosového dědka, aby mu pověděla, co babičce Agátě přišlo poštou z Haiti.
@@ -329,24 +329,24 @@ Do dětského pokoje vešel pan Tomík. „To jsi volala mě?“
 
 „Tak já se ti nelíbím?“ řekl dědeček Tomík. „A co takhle?“ usmál se a odněkud vykouzlil starý slamák. Nasadil si ho na hlavu _a najednou vypadal jako kokosový dědek_! Verunce se z toho úplně zatočila hlava.
 
-26.  
+## 26.  
 Hubertovi jsou nesví, ale babička Agáta je svá
 
 U Hubertů bylo teď všechno vzhůru nohama. Tatínek s maminkou ani nevěděli, jak tomu člověku, co vypadl z bedny, mají říkat. Tak mu říkali: pane Tomíku. Ale byli z toho všeho nesví. Jen babička Agáta byla svá a úplně šťastná. A Verunka už také začínala být skoro úplně šťastná.
 
-27.  
+## 27.  
 Tajemství se nikdy úplně neztrácí
 
 Dědeček Tomík si pořád něco vymýšlel, a když spolu hráli Člověče, nezlob se a Verunka mu vzala figurku, uměl se vztekat skoro jako kokosový dědek. A vůbec všechno kolem něho bylo tajemné. Až z toho šla Verunce hlava kolem. „Není on nakonec kouzelný?“ napadlo ji. Chtěla se na to zeptat kokosového dědka – a najednou si nemohla vybavit, kdy vlastně zmizel. Ale nehledala ho. Už neměla strach, že se ztratil.
 
 „_Protože tajemství se nikdy úplně neztratí…_“ tohle jí přece včera řekl pan Tomík.
 
-28.  
+## 28.  
 Falešné tetičky přicházejí
 
 Odpoledne se k Hubertům na vánoční cukroví slétly falešné tetičky. Moc se těšily, jak si pochutnají, a až všechno snědí, jak budou cestou domů krásně pomlouvat toho nového pana Tomíka.
 
-29.  
+## 29.  
 Falešné tetičky už víckrát nepřijdou
 
 Ale pan Tomík falešné tetičky tak okouzlil, že si mezi sebou říkaly: „Není kouzelný? Je! Je prostě kouzelný!“ A pan Tomík jim poděkoval za návštěvu a řekl, aby už víckrát nechodily.
@@ -355,12 +355,12 @@ Falešné tetičky s Uršulou v čele se urazily a víckrát opravdu nepřiš
 
 A pro Verunku dědeček Tomík.
 
-30.  
+## 30.  
 S dědečkem Tomíkem v zoo
 
 Příští den šla Verunka s dědečkem Tomíkem do zoologické zahrady! Tatínek s maminkou sice říkali, že v zimě v zoo většina zvířat spí, ale to se mýlili. Když tam přišli, tak se zvířata probudila! A dědeček Tomík všechny krokodýly, opice a tygry a chameleony a papoušky znal a o všech uměl vyprávět. A nejen to! On si dokonce s nimi vyprávěl! Nebo aspoň Verunce se zdálo, že si se zvířaty povídá…
 
-31.  
+## 31.  
 Pan Tomík bez fraku požádá babičku Agátu o ruku
 
 A byl tu Silvestr a konec starého roku. Hubertovi se sešli u jednoho stolu a do čela posadili Agátu s Tomíkem. Na stole bylo plno dobrot a láhve šampaňského. Verunka si se všemi přiťukávala a ve sklenici měla ovocné bublinky. O půlnoci si přišel připít i pan Bolemír Sázavský z podkroví. Napil se a pravil: „Nyní vám zarecituji báseň.“
@@ -373,7 +373,7 @@ Pak se uklonil a spustil:
 
 A požádal babičku Agátu o ruku.
 
-1.  
+## 1.  
 Tajný hovor
 
 Na Nový rok ráno zazvonil v předsíni telefon. Všichni ještě spali, tak k němu šla Verunka. Ve sluchátku se ozvalo šumění a pak z dálky nějaký hlas.
