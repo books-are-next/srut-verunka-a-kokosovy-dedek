@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-## 1.  
+1.  
 Verunce se nechce vstávat
 
 Listopad je divný měsíc. Ještě není úplná zima, ale počasí je šedivé a deštivé, někdy se člověku ani nechce vstávat. Verunce se zrovna dneska nechtělo vůbec vstávat. Byla mrzutá a stěžovala si: „Dědku, já jsem celá zamračená a nic se mi nechce. To dělá to počasí.“
@@ -18,7 +18,7 @@ A dědek řekl: „Verunko, počasí si člověk nosí v sobě. V někom je z
 
 „_Sochor a tetička Uršula nikdy nespí_,“ odpověděl kokosový dědek záhadně.
 
-## 2.  
+2.  
 Lukáš se raduje
 
 „Listopad je náhodou úplně, ale úplně nejsenzačnější měsíc!“ radoval se ve škole Lukášek.
@@ -31,12 +31,12 @@ Verunka hádala, ale na ten nejlepší dárek nepřišla.
 
 „Kolo!“ volal Lukášek. „Pojď se podívat, je úplně závodní!“
 
-## 3.  
+3.  
 Před Lukáškem se nefňuká
 
 Verunka uměla docela dobře jezdit na malém holčičím kole, ale na tomhle velkém klučicím kole ujela jen kousek. Najednou se před ní cesta začala klikatit a řídítka si dělala, co chtěla. Verunka spadla a natloukla si. Ale před Lukáškem nefňukala. Ani trošku. A byla ráda, že ji nikdo při té ostudě nevidí. Jenže někdo ji viděl: Antonín Sochor a tetička Uršula!
 
-## 4.  
+4.  
 Dědek slibuje, že něco vymyslí
 
 Verunka začala fňukat až doma.
@@ -59,7 +59,7 @@ Proto se jen ušklíbla a řekla: „Nejvíc se těším na to, že ti ujedu a�
 
 A Verunka koukala.
 
-## 5.  
+5.  
 S dědkem je možné všechno
 
 Když Verunka přišla ze školy, dědek ji radostně přivítal: „Verunko, už to mám! Budu tě vyvažovat.“
@@ -70,7 +70,7 @@ Když Verunka přišla ze školy, dědek ji radostně přivítal: „Verunko, u�
 
 A Verunka souhlasila, i když tomu nápadu moc nevěřila. Ale s dědkem je přece možné všecko.
 
-## 6.  
+6.  
 Verunka se nebojí
 
 Byl zrovna hezký den, a tak na hřiště přišlo plno dětí. Jen Lukáš přijel na kole. Verunka se přiloudala s kokosovým batůžkem na zádech.
@@ -85,7 +85,7 @@ Byl zrovna hezký den, a tak na hřiště přišlo plno dětí. Jen Lukáš př
 
 Byla totiž i s tím kloboukem schovaná za plotem!
 
-## 7.  
+7.  
 Verunka je jednička
 
 Verunka vylezla do sedla, párkrát šlápla – a už se nakláněla doleva.
@@ -100,14 +100,14 @@ A Verunka nespadla, ani když narazila do plotu.
 
 Jen vyplašila pár ptáků… a tetičku Uršulu.
 
-## 8.  
+8.  
 Ale je tu Sochor
 
 Ale v křoví u dětského hřiště byl schovaný také Sochor. Už se oklepal z toho strachu, co zažil v hradní mučírně, a už se zase nudil. A když se Sochor nudil, znamenalo to, že na obzoru je nějaká další lumpárna. Díval se na Veroniku a těšil se, že z kola spadne a pořádně si natluče.
 
 Ale pak si všiml, že z jejího batůžku vykukuje nějaký divný kokosový ořech! A hned věděl, co udělá!
 
-## 9.  
+9.  
 Sochor krade
 
 Celou hodinu se schovával za hustým plotem, dokud se Verunka s Lukášem nerozloučila. Když se vracela domů, plížil se za ní. A když vzala za kliku domovních dveří, Sochor přiskočil a CHŇAP!
@@ -116,12 +116,12 @@ Sáhl do batůžku a vytáhl kokos.
 
 Verunka nic nezpozorovala. A dědek ani nevykřikl, ani se nevzpouzel. Nechal se klidně ukrást. Sochor běžel s kokosem pod kabátem vesele domů.
 
-## 10.  
+10.  
 Verunka se nemá komu svěřit
 
 A Verunka šla smutně spát, protože se jí dědek zase ztratil. I když se hned na hřiště vrátila, nebyl tam a nebyl na dvorku ani na ulici. Nebyl nikde. Proto šla Verunka smutně do postele. A ještě smutnější bylo, že se neměla komu svěřit. Kdyby to řekla tatínkovi nebo mamince, určitě by se jí vysmáli a řekli by, že je už školačka a má mít rozum a nevymýšlet si jako malá báchorky o nějakém kokosovém dědkovi.
 
-## 11.  
+11.  
 Něco o Sochorovi
 
 Antonín Sochor měl jenom maminku a pár různých strejdů. Tatínek od nich odešel, když byl ještě docela malý, a pak různě přicházeli ti strejdové. Nebyli praví.
@@ -130,14 +130,14 @@ _Byli to falešní strejdové_, ale na rozdíl od Verunčiných falešných teti
 
 „Vždyť on nemá žádné hračky. A ani jednu pohádkovou knížku!“ všiml si dědek, když si ho Sochor přinesl domů. A najednou mu bylo Antonína líto.
 
-## 12.  
+12.  
 Divný kokos
 
 Sochor hodil ten divný kokos na stůl. Konečně si ho mohl pořádně prohlédnout. Jenže kokosový dědek uměl, když na tom záleželo, vypadat jako docela obyčejný kokosový ořech. Sochorovi to nešlo do hlavy. Vůbec si s tím nevěděl rady. A s čím si Sochor nevěděl rady, to chtěl rozbít, zahodit nebo do toho aspoň uhodit. Došel si pro kladivo. Postavil se nad dědkem, který se pořád tvářil jako obyčejný kokos.
 
 _Pak se rozpřáhl a…_
 
-## 13.  
+13.  
 Kouzelné kladivo
 
 … a kladivo mu vyskočilo z ruky! Zatočilo se ve vzduchu a kleplo ho do prstu.
@@ -150,7 +150,7 @@ Sochor ječel a dědek se potají smál.
 
 Nakonec skočil do rozestlané postele a přikryl se peřinou až po bradu. A bál se tak, že hlavu už nevystrčil.
 
-## 14.  
+14.  
 Dědkovo zaříkání
 
 Jak kokosový dědek zařídil, aby se z obyčejného kladívka stalo kouzelné kladivo, to už se nikdo nedozví. Dědek počkal, až Antonín usne. Pak seskočil ze stolu a posadil se na peřinu. Sochor byl pod ní zachumlaný, ani kousek z něho vidět nebylo. A potom začal dědek něco drmolit. Znělo to jako nějaké tajné zaříkadlo:
@@ -159,7 +159,7 @@ Jak kokosový dědek zařídil, aby se z obyčejného kladívka stalo kouzelné
 
 A tak pořád dokola.
 
-## 15.  
+15.  
 Básníci se nediví
 
 A pak se dědek vytratil domů. Byla už noc a měsíc jasně svítil. Před vchodem do domu stál vousatý pán. Vracel se z vinárny a něco si pro sebe brumlal. Ten pán bydlel až docela nahoře u půdy a jmenoval se Bolemír Sázavský.
@@ -174,12 +174,12 @@ brumlal si pro sebe. Dědek si všiml, že mu klíč z kapsy vypadl a teď le�
 
 Pan Bolemír Sázavský byl básník.
 
-## 16.  
+16.  
 Verunce se už zase chce vstávat
 
 Dědek musel ve třetím patře počkat až do rána, ale vůbec mu to nevadilo. Věděl, že babička Agáta půjde časně pro rohlíky k snídani a on pak snadno proklouzne k Verunce. A bylo to tak. Babička Agáta si ničeho nevšimla a Verunka, jak byla rozespalá, přikryla dědka svou peřinou a spala dál. A když ji babička Agáta zavolala k snídani, vstávalo se jí tak pěkně, jako by ani nebyl listopad.
 
-## 17.  
+17.  
 Asi nějaké kouzlo
 
 Odpoledne přišel Lukášek a oči měl navrch hlavy.
@@ -192,7 +192,7 @@ Odpoledne přišel Lukášek a oči měl navrch hlavy.
 
 Verunka se divila a dědek se potutelně usmíval.
 
-## 18.  
+18.  
 Nebo se Sochor zbláznil
 
 Pak přišlo pár pěkných dnů bez deště, jen vítr foukal. Lukášek a ostatní třeťáci si pouštěli na kopci draky. I Sochor se přišel podívat.
@@ -209,7 +209,7 @@ Všichni z něho byli zase paf a Lukášek řekl:
 
 „Kluci, Sochor se nám zbláznil, nebo co.“
 
-## 19.  
+19.  
 Tatínek je šampion
 
 Když Verunka doma vyprávěla, jak pěkného draka udělal pan Urban Lukáškovi, tatínek vstal od stolu a řekl: „Tak to já ti, Verunko, udělám extrasupersenzadraka!“
@@ -220,7 +220,7 @@ Když Verunka doma vyprávěla, jak pěkného draka udělal pan Urban Lukáškov
 
 A vypadal úžasně! Tatínek ho tajně odnesl do Verunčina pokoje.
 
-## 20.  
+20.  
 Verunka je nesoustředěná
 
 Verunka ráno jen škvírkou pootevřela oči – a v tu chvíli byla probuzená! Koukala na toho velikého papírového draka uprostřed pokoje a volala:
@@ -233,12 +233,12 @@ Verunka ráno jen škvírkou pootevřela oči – a v tu chvíli byla probuze
 
 Hned běžela dát tatínkovi pusu a ve škole seděla jako na trní, protože se už nemohla dočkat, až půjdou odpoledne na kopec toho krásného draka vyzkoušet. Byla šťastná a ve škole nedávala pozor. Když ji paní učitelka vyvolala ze čtení, četla místo táta máta, místo kočka čočka a místo pes les.
 
-## 21.  
+21.  
 Dědek letí nad městem
 
 Dědek zůstal ráno v posteli. Bylo mu lenošivě a tak nějak lehce, jako by se v peřinách vznášel. Díval se na draka na podlaze, trochu se zasnil – a bylo to. Okno se samo otevřelo. Pokojem se prohnal vítr a draka popadl. Dědek vyskočil, chytil se ho za ocas a už se vznášeli vysoko nad městem…
 
-## 22.  
+22.  
 Dědek padá do rybníka
 
 Drak se protáčel ve větrném víru, plachtil vysoko, šňůra, kterou měl místo ocasu, za ním vlála, ale dědek se jí držel pevně.
@@ -247,7 +247,7 @@ Teď už drak opustil město a letěl nad loukami, lesy a rybníky. Dědkovi b
 
 Spadl do rybníka. Voda se nad ním zavřela. A drak i vlaštovky si klidně letěly dál…
 
-## 23.  
+23.  
 Verunka dědka zachrání
 
 „POMOC!“
@@ -268,24 +268,24 @@ Veronika zrovna přišla ze školy a to volání slyšela už v předsíni. Vb
 
 „Nechci,“ mračil se dědek. „Já už se nalítal dost.“
 
-## 24.  
+24.  
 Tatínek je mistr světa
 
 Na kopci byl už Lukáš a Aki a Martínek Pecha a plno jiných dětí s rodiči a všichni pouštěli draky. To odpoledne bylo na obloze víc papírových draků, než bývá v noci hvězd. Ale nejvýš se vznášel a nejkrásnější byl ten tatínkův. Všichni Verunce takového draka i takového tatínka záviděli.
 
 A Lukášek volal. „Ha-lo! Pane Hubert, na draky a na kuličky jste fakticky mistr světa!“
 
-## 25.  
+25.  
 Výhody stonání
 
 Jenže příští den Verunku škrábalo v krku a měla malinkou teplotu. Jindy by si docela ráda zastonala, protože takové docela malé stonání má své výhody. Například: mohla si kolem sebe postavit ohrádku z pohádkových knížek a celý den v ní zůstat. Mohla si vymýšlet různé hlouposti a kňourat – a nikdo jí neříkal, aby si nevymýšlela hlouposti a nekňourala. Mohla mít kokosového dědka u sebe v posteli a nikdo, dokonce ani tatínek, neříkal, že se to nehodí.
 
-## 26.  
+26.  
 Nevýhody stonání
 
 Nevýhody byly: nemohla jít na kopec a pouštět si draka, aby všichni draka i tatínka obdivovali. Nemohla jezdit na kole, aby na ni Lukášek zase křičel: „Niko, jsi jednička!“ A nemohla se nikam vytratit, i když věděla, že přijde na návštěvu tetička Uršula.
 
-## 27.  
+27.  
 Další krabice korálků
 
 Tetička Uršula přišla o dvě hodiny dřív, než vyhrožovala, a hned se hrnula do pokojíku k Verunce. Když uviděla kokos v posteli, upustila další krabici korálků a ty se rozsypaly po koberci.
@@ -294,7 +294,7 @@ Tetička Uršula přišla o dvě hodiny dřív, než vyhrožovala, a hned se h
 
 „Přišel poštou z Haiti, ale kdo ho poslal, to bych moc ráda věděla,“ řekla babička Agáta a na chvilku se zasnila.
 
-## 28.  
+28.  
 Babička Agáta je zasněná
 
 Babička Agáta byla teď zasněná dost často. Zavírala se ve svém pokoji a pouštěla si Beatles.
@@ -303,7 +303,7 @@ Babička Agáta byla teď zasněná dost často. Zavírala se ve svém pokoji a�
 
 „Ať je, kde je, už je z něho dědek,“ usoudil tatínek. „A kdyby ho babička Agáta teď viděla, určitě by se divila, co na něm tehdy viděla!“
 
-## 29.  
+29.  
 Dědek ví
 
 I Verunka si všimla, že babička Agáta je poslední dobou nějaká divná.
@@ -322,7 +322,7 @@ I Verunka si všimla, že babička Agáta je poslední dobou nějaká divná.
 
 „Aliho dědeček!“ řekl dědek.
 
-## 30.  
+30.  
 Sochor umí násobilku
 
 Za pár dnů Verunka zase mohla jít do školy. Nic mimořádného se u nich v první třídě nestalo. Jen třeťáci si měli o čem povídat. Za Verunkou s tím přiběhl Lukáš.

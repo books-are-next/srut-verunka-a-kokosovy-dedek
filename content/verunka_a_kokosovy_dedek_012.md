@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-## 1.  
+1.  
 Lukáš něco chce
 
 „My zítra letíme letadlem do Londýna za maminkou,“ chlubila se Veronika Lukáškovi.
@@ -24,7 +24,7 @@ Lukáš něco chce
 
 A měla pravdu. „Víš, kdybys chtěla,“ začal Lukáš ledabyle, „kdybys chtěla, tak ti pohlídám ten tvůj kokos. Vzal bych ho s sebou na venkov k dědečkovi. Co ty na to?“
 
-## 2.  
+2.  
 Každý má dědečka
 
 Veronika dělala, že neslyší.
@@ -41,7 +41,7 @@ Veronika dělala, že neslyší.
 
 „Ach jo, s tebou není řeč,“ povzdechl si Lukášek. „Ty pořád něco meleš o dědečcích!“
 
-## 3.  
+3.  
 Babička Agáta přichází vždycky včas
 
 Hned nato se objevila před domem babička Agáta.
@@ -54,7 +54,7 @@ A Lukášek protáhl obličej.
 
 „Tak se netvař,“ utěšovala ho Veronika. „Já ti z Londýna přivezu… kousek Londýna!“
 
-## 4.  
+4.  
 Nejmazanější babička na světě
 
 Příští den Verunka nevěděla, jestli se v letadle přece jen nebude trochu bát, ale ještě větší strach měla z té slečny u přepážky na odbavování zavazadel.
@@ -67,7 +67,7 @@ Příští den Verunka nevěděla, jestli se v letadle přece jen nebude trochu
 
 „A nejmazanější,“ usmála se babička Agáta.
 
-## 5.  
+5.  
 Dědek se smí tajně dívat
 
 V letadle Agáta nenápadně strčila kokos do Verunčina batůžku.
@@ -78,7 +78,7 @@ Z batůžku vykoukl slaměný klobouček.
 
 „Ani muk! Můžeš se taky dívat, ale tajně!“ zašeptala Verunka a dědek přikývl.
 
-## 6.  
+6.  
 Dědek dělá papouška
 
 Verunka byla k okýnku úplně přilepená, dědek tajně vykukoval, ale po chvíli už to nevydržel a křičel: „_Krása! Krása!_“
@@ -91,12 +91,12 @@ A dědek spiklenecky zašeptal:
 
 „To nechci. Proto přece dělám papouška a křičím jako on: Krása! Krása!“
 
-## 7.  
+7.  
 Pár slziček
 
 Na londýnském letišti bylo lidí jak mravenců v mraveništi, ale Verunka maminku už z dálky poznala a hned se k ní rozběhla. A jak se to někdy z velké radosti stává, objevilo se i pár slziček. Ale ty si statečně utřela rukávem.
 
-## 8.  
+8.  
 Co si Verunka s dědkem slíbili
 
 Maminka pronajala byt ve starém, úzkém domě na nábřeží Temže. Verunka dostala komůrku s balkonkem. Vedle ní měla ložnici babička Agáta a ve větším pokoji byl tatínek s maminkou.
@@ -105,14 +105,14 @@ Maminka pronajala byt ve starém, úzkém domě na nábřeží Temže. Verunka d
 
 „A ty se mi taky nesmíš ztratit. Slibuješ?“ řekl dědek. Svorně si to slíbili, ale hned první den se ztratila babička Agáta.
 
-## 9.  
+9.  
 Taková zvláštní loď
 
 To bylo tak. Sotva babička Agáta složila ve svém pokoji kufry, vyšla ven k řece a ucítila vůni moře. Potom spatřila připlouvat pestře pomalovanou loď. A právě ta tu vůni přivážela. Na přídi stál mladý, do hněda opálený námořník a vesele na babičku Agátu mával, ale to není všechno – ta loď měla na boku jméno!
 
 „HAITI!“ četla babička Agáta nahlas, když loď přirazila ke břehu.
 
-## 10.  
+10.  
 Takový zvláštní námořník
 
 A ten námořník vyskočil z lodi, popadl babičku Agátu v pase a přenesl ji lehounce jako pírko na palubu.
@@ -127,12 +127,12 @@ A ten námořník vyskočil z lodi, popadl babičku Agátu v pase a přenesl
 
 „Všichni se musíme jednou vrátit,“ usmál se námořník a loď vyplula.
 
-## 11.  
+11.  
 Dědek všechno viděl
 
 Tohle všechno se seběhlo velice rychle a tajně – a přece to někdo viděl. Kokosový dědek! Viděl to z balkonku a vůbec se nesnažil babičku Agátu zadržet nebo na ni zavolat. Ani se nepohnul, jen se dál tak nějak zasněně, jako by podřimoval, díval na řeku…
 
-## 12.  
+12.  
 Dědkovy hádanky
 
 „Dědku! Ty si tady klidně spíš a nám se ztratila babička!“ vytrhla ho ze snění Verunka.
@@ -145,7 +145,7 @@ Dědkovy hádanky
 
 Venku před domem už stáli maminka s tatínkem a rozmlouvali s londýnským policistou. Hleděl na ně z výšky a usmíval se. Paní Hubertová s ním mluvila anglicky a pan Hubert líčení ztráty babičky Agáty doplňoval rukama.
 
-## 13.  
+13.  
 Umí babička anglicky?
 
 „Všechno se vysvětlí,“ říkal policista. „Děti se někdy ztrácejí – ale babičky?“
@@ -158,7 +158,7 @@ Umí babička anglicky?
 
 „Tak to se u nás neztratí!“ uklidnil ji policista.
 
-## 14.  
+14.  
 Úplně maličký polda
 
 Zatímco tatínek s maminkou popisovali, jak babička Agáta vypadá a jaké měla na sobě šaty, vykoukl dědek z batůžku a zašeptal:
@@ -171,7 +171,7 @@ Zatímco tatínek s maminkou popisovali, jak babička Agáta vypadá a jaké m
 
 „Teď se nám ztratila i dceruška!“ zalkala maminka, a to bylo i na toho velikánského klidného poldu moc. Pod tím návalem neštěstí se sesypal a byl najednou úplně maličký…
 
-## 15.  
+15.  
 Verunka žasne
 
 Verunka stála na mostě a dívali se s dědkem na řeku. Dole pod nimi se kolébaly velké nákladní lodě, vesele houkal výletní parník a…
@@ -182,14 +182,14 @@ A Verunka užasla. Byla to pestře pomalovaná kocábka, ale přesně taková, 
 
 _Byla to babička Agáta!_
 
-## 16.  
+16.  
 Tatínek si klepe na čelo
 
 Veronice dlouho trvalo, než se z toho úžasu vzpamatovala. Hodně dlouho. Když se za chvíli vrátila zase před dům, babička Agáta už tam stála a maminka ji starostlivě držela kolem ramen a asi popáté se ptala: „Kde jsi, prosím tě, byla?“
 
 „Na Haiti,“ odpovídala babička Agáta – a tatínek si nenápadně klepal na čelo. Jenže babička Agáta to viděla a řekla vlídně: „To se ví, Bedřichu, že ne na ostrově Haiti! Jen jsem se trochu projela na lodi, která se docela náhodou jmenuje Haiti.“
 
-## 17.  
+17.  
 Verunka chce vidět královnu
 
 Všichni byli rádi, že všechno dobře dopadlo, a maminka řekla: „A teď si vás pěkně zavřu do auta, abyste se mi neztratili, a projedeme se městem. Já vám všechno ukážu. Co byste chtěli vidět?“
@@ -198,12 +198,12 @@ Všichni byli rádi, že všechno dobře dopadlo, a maminka řekla: „A teď 
 
 „A já bych chtěla vidět tržnici. Mně jeden hezký námořník říkal, že tam vozí z Haiti papoušky a ovoce a cizokrajné ryby,“ řekla babička Agáta.
 
-## 18.  
+18.  
 Vydařený výlet
 
 A pak celé odpoledne až do večera jezdili křížem krážem. Neviděli všecko, protože Londýn je moc velké město, ale viděli toho hodně. Jen ta tržnice, kterou chtěla vidět babička, byla už zavřená. A paní královna, kterou chtěla vidět Verunka, nebyla zrovna doma. Jinak se ten výlet moc vydařil a všichni si libovali. Pouze maminka trochu hubovala. Nelíbilo se jí, že Verunka pořád s sebou tahá ten starý, ošuntělý batůžek.
 
-## 19.  
+19.  
 Zvláštní batůžek
 
 Ráno babička Agáta řekla: „Maminka má pravdu. S tím starým batůžkem tady děláš ostudu. Jdeme ti koupit nový.“
@@ -214,7 +214,7 @@ A šly. Verunka se dívala po dětech, jaké nosí ruksáčky, ale žádný jí
 
 _Vypadal jako kokosový dědek._
 
-## 20.  
+20.  
 Nejnovější móda
 
 Když s tím batůžkem přišly domů, tatínek spráskl ruce: „No toto! Co jste to koupily za opičárnu?“
@@ -227,7 +227,7 @@ Když s tím batůžkem přišly domů, tatínek spráskl ruce: „No toto! Co 
 
 „Tak ať!“ řekla Verunka umíněně. „Lepší nosit na zádech kokos než dědka!“
 
-## 21.  
+21.  
 Nejzpůsobnější dědoušek na světě
 
 Verunka nový batůžek ukázala dědkovi, ten hned skočil dovnitř a volal: „Ha-lo! Padne mi jako ulitý! Teď se mnou můžeš chodit po městě a nikdo nic nepozná.“
@@ -236,7 +236,7 @@ Verunka nový batůžek ukázala dědkovi, ten hned skočil dovnitř a volal: �
 
 „Budu ten nejzpůsobnější a nejtajnější dědoušek na světě,“ slíbil dědek.
 
-## 22.  
+22.  
 Dědek se rád ztrácí
 
 Příští den ráno musela maminka do té své cestovní kanceláře a tatínek s Veronikou se rozhodli, že ji tam odpoledne navštíví.
@@ -249,7 +249,7 @@ Nejdřív jeli červeným patrovým autobusem, pak šli pěšky a pak…
 
 „Ale nic. Já se totiž moc rád ztrácím, víš?“ radoval se dědek.
 
-## 23.  
+23.  
 V Londýně se člověk ztratí snadno
 
 Verunka nechápala, jak se někdo může rád ztrácet. Co je na tom pěkného?
@@ -260,7 +260,7 @@ Verunka nechápala, jak se někdo může rád ztrácet. Co je na tom pěkného?
 
 Tatínek ten povzdech zaslechl a vztáhl to na sebe. „Verunko, tady se člověk ztratí snadno. To není, holčičko, jako v Praze! Protože Prahu já znám jako své boty,“ řekl a rozhlížel se kolem dokola.
 
-## 24.  
+24.  
 Pěkná hra
 
 „Naštěstí já znám Londýn jako svoje sandály,“ zašeptal dědek. „Když se dáme touhle ulicí doleva, dojdeme na křižovatku. Tam bude stát ten náš polda, ale my se mu radši vyhneme, dáme se napravo a pak rovně a jsme u maminky.“
@@ -269,7 +269,7 @@ Veronika se obrátila k tatínkovi a řekla: „Víš, co? Já tě jako povedu
 
 „To je pěkná hra,“ souhlasil tatínek. A za chvíli byli u cestovní kanceláře a maminka měla radost, že se neztratili a že ji tak snadno našli.
 
-## 25.  
+25.  
 Dědek je hezký
 
 Babička Agáta se vypravila do tržnice, ale toho svého námořníka tam nenašla.
@@ -284,7 +284,7 @@ Babička Agáta se vypravila do tržnice, ale toho svého námořníka tam nena�
 
 „Vážně?“ divila se Verunka a byla na dědka moc pyšná.
 
-## 26.  
+26.  
 V botanické zahradě
 
 Příští den vzala babička Agáta Verunku do botanické zahrady. Obdivovaly orchideje a masožravé květiny a ohromné kaktusy a stromy z Indie a z Jižní Ameriky a…
@@ -293,12 +293,12 @@ Příští den vzala babička Agáta Verunku do botanické zahrady. Obdivovaly o
 
 Kokosový dědek byl ze všech těch vůní jako omámený. Ale když tohle uslyšel, rázem pookřál a vyskočil z batůžku.
 
-## 27.  
+27.  
 Dědek si s někým povídá
 
 Babička Agáta si ničeho nevšimla. Ale Verunka se za dědkem rozběhla. Za chvilenku ho spatřila. Seděl v koruně palmy a nebyl tam sám. Verunce se zdálo, že si tam s někým povídá. A že ten někdo si neznámou řečí povídá s ním! Vypadali jako staří známí, kteří se dlouho neviděli a musí si honem povědět všechny novinky.
 
-## 28.  
+28.  
 Veronika je rozumná
 
 Verunka zůstala údivem stát. Chtěla se schovat, ale to už k ní dědek seskočil a volal: „Holka, to byl on! Ten pošťák z Haiti, co mě dal do balíku a poslal za tebou. On tu teď dělá zahradníka. A představ si, že chce, abych se s ním na Haiti vrátil!“
@@ -313,7 +313,7 @@ I Verunka se zamyslela. Pak řekla rozumným hlasem:
 
 A dědek ji nepřemlouval.
 
-## 29.  
+29.  
 Verunka si vzpomene na Lukáška
 
 Verunka měla ohromnou radost, už se bála, že se jí dědek nadobro ztratí. Je to zvláštní. Čím víc se o něj bála, tím víc ho měla ráda. A naopak. Čím víc ho měla ráda, tím víc se o něj bála…
@@ -332,14 +332,14 @@ A večer si vzpomněla na Lukáška.
 
 „Tomu trhu se jenom tak říká. A dostaneš tam všecko, na co si vzpomeneš – možná i blechy,“ řekla babička Agáta.
 
-## 30.  
+30.  
 Na bleším trhu
 
 A měla pravdu. Na bleším trhu bylo ke koupi všecko možné: staré porcelánové panenky, brusle na kličku, noční čepičky, zouváky a šavle, flašinety a paruky a…
 
 „Už to mám! Pojď sem!“ volala babička Agáta. V ruce držela něco, co vypadalo jako námořnický triedr, ale dalekohled to nebyl. _Byl to krasohled!_ Když se Veronika do té trubice podívala a když s ní otáčela, přesunovala se uvnitř barevná sklíčka. A tvořila obrázky. A každý ten obrázek ukazoval kousek Londýna.
 
-## 31.  
+31.  
 Návrat domů
 
 A co bylo pak? Pak se všichni, i s maminkou, vrátili domů. Veronika chtěla hned navštívit Lukáška a dát mu ten kousek Londýna, ale bylo už moc hodin a zítra ji čekal veliký den. A tak šla rovnou do postele. Protože zaspat první den školy, to by tedy byla pěkná ostuda!
