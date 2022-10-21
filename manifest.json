@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-verunka-a-kokosovy-dedek-00d0532",
-  "revision": "00d0532",
+  "identifier": "srut-verunka-a-kokosovy-dedek-4c7adca",
+  "revision": "4c7adca",
   "readingOrder": [
     "promo.html",
     "verunka_a_kokosovy_dedek_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 11 2022 08:25:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665476719654
+    "date": "Fri Oct 21 2022 11:44:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352668279
   },
   "documents": [
     {
